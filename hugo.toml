@@ -1,4 +1,4 @@
-baseURL = "https://focushacked.com/"
+baseURL = "https://focushack.io/"
 languageCode = "en-us"
 title = "FocusHacked — ADHD Productivity Tools That Actually Work"
 theme = "PaperMod"
@@ -27,7 +27,7 @@ buildDrafts = false
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:hello@focushacked.com"
+    url = "mailto:hello@focushack.io"
 
 [params.fuseOpts]
   isCaseSensitive = false

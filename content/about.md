@@ -34,4 +34,4 @@ No sponsored content. No pay-to-play reviews. Ever.
 
 ---
 
-*Got a tool you want me to review? [Drop me a line](mailto:hello@focushacked.com).*
+*Got a tool you want me to review? [Drop me a line](mailto:hello@focushack.io).*
