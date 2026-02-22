@@ -1,6 +1,6 @@
 ---
 title: "Body Doubling Apps for ADHD: How Working With Strangers Saved My Productivity"
-date: 2026-02-22
+date: 2026-01-29
 description: "Body doubling apps for ADHD can transform how you work. Reviews of Focusmate, Flow Club, Flown, and free alternatives that actually help."
 tags: ["body doubling", "adhd productivity", "focusmate", "virtual coworking", "adhd tools"]
 categories: [guides]

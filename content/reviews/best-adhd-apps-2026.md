@@ -1,6 +1,6 @@
 ---
 title: "Best ADHD Apps in 2026: 12 Apps That Actually Help (Not Just Another List)"
-date: 2026-02-22
+date: 2026-01-22
 description: "Honest reviews of the 12 best ADHD apps in 2026. Real pricing, ADHD-specific pros and cons, and which ones actually help with focus and task paralysis."
 tags: ["adhd apps", "adhd productivity apps", "best adhd apps", "focus apps", "adhd tools"]
 categories: [reviews]

@@ -1,6 +1,6 @@
 ---
 title: "Best Planners for ADHD in 2026, Tested by an ADHD Brain"
-date: 2026-02-22
+date: 2026-01-15
 description: "Finding the best planner for ADHD isn't easy. I tested 10 physical and digital planners to find what actually works for ADHD brains. Not neurotypical productivity advice repackaged."
 tags: ["adhd planner", "adhd organization", "executive function", "productivity", "time management", "adhd tools"]
 categories: ["reviews"]
