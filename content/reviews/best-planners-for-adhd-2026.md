@@ -321,4 +321,10 @@ Start small. Pick your single biggest pain point (time blindness? task overwhelm
 
 ---
 
-*Some links in this article may be affiliate links. FocusHacked earns a small commission if you purchase through them, at no extra cost to you. We only recommend products we've genuinely tested and believe in. This keeps the site running and the coffee flowing. ☕*
+*Some links in this article may be affiliate links. FocusHack earns a small commission if you purchase through them, at no extra cost to you. We only recommend products we've genuinely tested and believe in. This keeps the site running and the coffee flowing. ☕*
+
+---
+
+**Keep reading:**
+- [Best ADHD Apps in 2026: 12 Apps That Actually Help](/reviews/best-adhd-apps-2026/)
+- [Body Doubling Apps for ADHD: How Working With Strangers Saved My Productivity](/guides/body-doubling-apps-adhd/)

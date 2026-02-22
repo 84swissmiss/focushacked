@@ -172,3 +172,9 @@ Same principle, honestly. Coffee shops work as body doubling for a lot of ADHD p
 Body doubling felt silly to me before I tried it. Paying money to sit on video with a stranger while I do my own work? Come on. But two years later, it's probably the single most effective ADHD productivity strategy I've found. More than any app, any planner, any system.
 
 Sometimes the simplest tools are the ones that stick. And sometimes the thing standing between you and your to-do list is just another human being, sitting there, doing their own thing.
+
+---
+
+**Keep reading:**
+- [Best Planners for ADHD in 2026](/reviews/best-planners-for-adhd-2026/)
+- [Best ADHD Apps in 2026: 12 Apps That Actually Help](/reviews/best-adhd-apps-2026/)

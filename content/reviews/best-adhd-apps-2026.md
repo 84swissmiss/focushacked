@@ -222,3 +222,9 @@ Most of them, yes. But features like visual timelines, body doubling, and automa
 ### What about apps not on this list?
 
 I intentionally kept this to 12 because decision fatigue is real and giving you 47 options would be cruel. I've tried many others. These are the ones worth your time in 2026.
+
+---
+
+**Keep reading:**
+- [Best Planners for ADHD in 2026](/reviews/best-planners-for-adhd-2026/)
+- [Body Doubling Apps for ADHD: How Working With Strangers Saved My Productivity](/guides/body-doubling-apps-adhd/)
