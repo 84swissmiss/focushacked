@@ -1,0 +1,65 @@
+baseURL = "https://focushacked.com/"
+languageCode = "en-us"
+title = "FocusHacked — ADHD Productivity Tools That Actually Work"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+
+[params]
+  env = "production"
+  description = "Real reviews of ADHD productivity tools, planners, and apps — by someone who actually has ADHD."
+  author = "FocusHacked"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = true
+  TocOpen = false
+  comments = false
+
+  [params.homeInfoParams]
+    Title = "🧠 ADHD Tools That Actually Work"
+    Content = "Honest reviews of planners, apps, and productivity tools — tested by an ADHD brain, for ADHD brains."
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:hello@focushacked.com"
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "reviews"
+  name = "Reviews"
+  url = "/reviews/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "guides"
+  name = "Guides"
+  url = "/guides/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 30
