@@ -1,7 +1,8 @@
 baseURL = "https://focushack.io/"
 languageCode = "en-us"
-title = "FocusHacked — ADHD Productivity Tools That Actually Work"
+title = "FocusHack — ADHD Productivity Tools That Actually Work"
 theme = "PaperMod"
+
 [pagination]
   pagerSize = 10
 
@@ -11,23 +12,37 @@ buildDrafts = false
 [params]
   env = "production"
   description = "Real reviews of ADHD productivity tools, planners, and apps — by someone who actually has ADHD."
-  author = "FocusHacked"
+  author = "FocusHack"
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = false
   ShowToc = true
   TocOpen = false
   comments = false
+  defaultTheme = "light"
+  disableThemeToggle = false
+
+  [params.cover]
+    linkFullImages = false
+    responsiveImages = true
 
   [params.homeInfoParams]
-    Title = "🧠 ADHD Tools That Actually Work"
-    Content = "Honest reviews of planners, apps, and productivity tools — tested by an ADHD brain, for ADHD brains."
+    Title = "🧠 Tools for brains that work differently"
+    Content = """Honest, no-BS reviews of ADHD productivity tools — planners, apps, and systems — tested by someone who actually has ADHD.\n\nNo sponsored posts. No fluff. Just what works."""
 
   [[params.socialIcons]]
     name = "email"
     url = "mailto:hello@focushack.io"
+
+  [params.label]
+    text = "FocusHack"
+    icon = "🧠"
+    iconHeight = 35
+
+  [params.profileMode]
+    enabled = false
 
 [params.fuseOpts]
   isCaseSensitive = false
@@ -48,13 +63,13 @@ buildDrafts = false
 
 [[menu.main]]
   identifier = "reviews"
-  name = "Reviews"
+  name = "🔍 Reviews"
   url = "/reviews/"
   weight = 10
 
 [[menu.main]]
   identifier = "guides"
-  name = "Guides"
+  name = "📖 Guides"
   url = "/guides/"
   weight = 20
 

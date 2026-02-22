@@ -1,0 +1,142 @@
+/* FocusHack.io — Custom Styles */
+
+:root {
+  --theme: #6C5CE7;          /* Purple — focus/brain vibes */
+  --entry: #F8F7FF;           /* Light lavender background */
+  --primary: #2D3436;
+  --secondary: #636E72;
+  --border: #DFE6E9;
+  --gap: 24px;
+  --radius: 12px;
+}
+
+.dark {
+  --theme: #A29BFE;
+  --entry: #1E1E2E;
+  --primary: #CDD6F4;
+  --secondary: #BAC2DE;
+  --border: #313244;
+}
+
+/* Logo / site title */
+.logo a {
+  font-weight: 800 !important;
+  font-size: 1.4rem !important;
+  letter-spacing: -0.02em;
+}
+
+/* Homepage hero */
+.first-entry {
+  border: 2px solid var(--theme) !important;
+  border-radius: var(--radius) !important;
+  background: var(--entry) !important;
+}
+
+.first-entry .entry-header h1 {
+  font-size: 2rem;
+  line-height: 1.3;
+}
+
+/* Article cards */
+.post-entry {
+  border-radius: var(--radius) !important;
+  border: 1px solid var(--border) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(108, 92, 231, 0.15);
+}
+
+/* Headings */
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.post-content h2 {
+  border-bottom: 2px solid var(--theme);
+  padding-bottom: 0.3em;
+  margin-top: 2em;
+}
+
+/* Links */
+.post-content a {
+  color: var(--theme);
+  text-decoration: underline;
+  text-decoration-color: rgba(108, 92, 231, 0.3);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.2s;
+}
+
+.post-content a:hover {
+  text-decoration-color: var(--theme);
+}
+
+/* Tables — cleaner look */
+.post-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+}
+
+.post-content th {
+  background: var(--theme);
+  color: white;
+  padding: 10px 14px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.post-content td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-content tr:hover td {
+  background: var(--entry);
+}
+
+/* Blockquotes — ADHD tips callout style */
+.post-content blockquote {
+  border-left: 4px solid var(--theme);
+  background: var(--entry);
+  padding: 1em 1.2em;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  margin: 1.5em 0;
+  font-style: normal;
+}
+
+/* TOC styling */
+.toc {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1em;
+  background: var(--entry);
+}
+
+/* Reading time + meta */
+.post-meta {
+  font-size: 0.9em;
+  color: var(--secondary);
+}
+
+/* Footer */
+.footer {
+  opacity: 0.7;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better body text */
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
