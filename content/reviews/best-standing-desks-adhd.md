@@ -9,6 +9,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *This article contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 Let me paint you a picture. It's 2 PM. You've been sitting at your desk for three hours. You've read the same Slack message four times. Your leg is bouncing so hard it's registering on seismographs in neighboring countries. Your brain has checked out and is currently browsing a mental catalog of every embarrassing thing you said in 2019.
@@ -80,7 +82,7 @@ Four memory presets. Rock-solid stability even at max height. And the customizat
 
 The best part for ADHD? The crossbar on the frame is perfect for resting your foot on while standing. Instant fidget station.
 
-[👉 Check price on Amazon](https://www.amazon.de/dp/B0CHVMXL4Y?tag=focushack-21)
+[👉 Check price on Amazon](https://www.amazon.com/dp/B0CHVMXL4Y?tag=focushack-20)
 
 **Best for:** People who want a buy-it-for-life desk and are willing to invest.
 
@@ -96,7 +98,7 @@ It has a built-in USB charging port in the controller, which is a small detail t
 
 The frame also accommodates under-desk treadmills and balance boards nicely, which brings us to the ADHD fidget bonus round.
 
-[👉 Check price on Amazon](https://www.amazon.de/dp/B09WD67L9G?tag=focushack-21)
+[👉 Check price on Amazon](https://www.amazon.com/dp/B09WD67L9G?tag=focushack-20)
 
 **Best for:** The sweet spot of price, quality, and ADHD-friendly features.
 
@@ -112,7 +114,7 @@ It's a single-motor sit-stand system, so it's slightly slower than the Uplift or
 
 The downside? The metal surface is cold in winter. And the desk size options are limited. But if visual cleanliness is your top ADHD priority, nothing beats this.
 
-[👉 Check price on Amazon](https://www.amazon.de/dp/B0CMV5HKXW?tag=focushack-21)
+[👉 Check price on Amazon](https://www.amazon.com/dp/B0CMV5HKXW?tag=focushack-20)
 
 **Best for:** ADHD folks who are visually sensitive and need a clean, distraction-free desk surface.
 
@@ -130,7 +132,7 @@ The BEKANT has a 10-year warranty, which is reassuring for something you're goin
 
 If you're on a budget or you're not sure standing desks are for you, start here. Upgrade later if you love it.
 
-[👉 Check price on Amazon](https://www.amazon.de/dp/B0BW8XWKY2?tag=focushack-21)
+[👉 Check price on Amazon](https://www.amazon.com/dp/B0BW8XWKY2?tag=focushack-20)
 
 **Best for:** Budget-conscious folks or standing desk beginners who want to test the waters.
 
@@ -146,7 +148,7 @@ Fully also sells a matching monitor arm, keyboard tray, and cable management tra
 
 The programmable handset is dead simple. Three buttons, three heights. No menus to navigate, no screens to squint at.
 
-[👉 Check price on Amazon](https://www.amazon.de/dp/B07PJTVSKR?tag=focushack-21)
+[👉 Check price on Amazon](https://www.amazon.com/dp/B07PJTVSKR?tag=focushack-20)
 
 **Best for:** People who want a warm, natural-looking workspace that's also highly functional.
 
@@ -156,19 +158,19 @@ The desk is just the start. Here's where the real ADHD magic happens:
 
 ### Under-Desk Treadmill
 
-This is the single best thing I've added to my standing desk setup. Walking at 1-2 mph while working is the ultimate ADHD fidget. Your body is moving, your brain is engaged, and you're not even thinking about it. The **[WalkingPad P1](https://www.amazon.de/dp/B09XTSC9CS?tag=focushack-21)** folds flat and slides under the desk when you're done.
+This is the single best thing I've added to my standing desk setup. Walking at 1-2 mph while working is the ultimate ADHD fidget. Your body is moving, your brain is engaged, and you're not even thinking about it. The **[WalkingPad P1](https://www.amazon.com/dp/B09XTSC9CS?tag=focushack-20)** folds flat and slides under the desk when you're done.
 
 ### Balance Board
 
-Cheaper than a treadmill and nearly as effective. Standing on a balance board while working gives your body just enough micro-movement to keep the fidget monster happy. The **[FluidStance Level](https://www.amazon.de/dp/B07FYVVPPG?tag=focushack-21)** is my pick. It's smooth, quiet, and looks good enough that you won't hide it when people come over.
+Cheaper than a treadmill and nearly as effective. Standing on a balance board while working gives your body just enough micro-movement to keep the fidget monster happy. The **[FluidStance Level](https://www.amazon.com/dp/B07FYVVPPG?tag=focushack-20)** is my pick. It's smooth, quiet, and looks good enough that you won't hide it when people come over.
 
 ### Anti-Fatigue Mat
 
-If you're not ready for a treadmill or balance board, at minimum get an anti-fatigue mat. Standing on a hard floor will make your feet hate you within an hour. The **[Ergodriven Topo](https://www.amazon.de/dp/B00V3TO9EK?tag=focushack-21)** has a terrain-like surface that encourages you to shift your feet around. Sneaky fidget engineering.
+If you're not ready for a treadmill or balance board, at minimum get an anti-fatigue mat. Standing on a hard floor will make your feet hate you within an hour. The **[Ergodriven Topo](https://www.amazon.com/dp/B00V3TO9EK?tag=focushack-20)** has a terrain-like surface that encourages you to shift your feet around. Sneaky fidget engineering.
 
 ### Desk Shelf or Monitor Arm
 
-Getting your monitor at the right height is crucial for standing. Most people need a monitor arm or a desk shelf to avoid looking down. Looking down = neck pain = one more reason to stop standing = desk becomes expensive sitting desk. The **[Ergotron LX](https://www.amazon.de/dp/B00358RIRC?tag=focushack-21)** is the monitor arm that everyone recommends because it actually works.
+Getting your monitor at the right height is crucial for standing. Most people need a monitor arm or a desk shelf to avoid looking down. Looking down = neck pain = one more reason to stop standing = desk becomes expensive sitting desk. The **[Ergotron LX](https://www.amazon.com/dp/B00358RIRC?tag=focushack-20)** is the monitor arm that everyone recommends because it actually works.
 
 ## Common Mistakes (I Made All of Them)
 
@@ -186,7 +188,7 @@ Getting your monitor at the right height is crucial for standing. Most people ne
 
 A standing desk won't cure your ADHD. Nothing will "cure" your ADHD (and anyone selling that is lying to you). But it *will* give your body the movement it's been screaming for, reduce that horrible afternoon brain fog, and make your workspace somewhere you can actually function.
 
-My honest recommendation: **if you can afford it, get the [FlexiSpot E7 Pro](https://www.amazon.de/dp/B09WD67L9G?tag=focushack-21)**. It's the best value, it has all the ADHD-friendly features that matter, and it's stable enough to last years. Pair it with an under-desk treadmill or balance board, and you've built yourself a workspace that works *with* your brain instead of against it.
+My honest recommendation: **if you can afford it, get the [FlexiSpot E7 Pro](https://www.amazon.com/dp/B09WD67L9G?tag=focushack-20)**. It's the best value, it has all the ADHD-friendly features that matter, and it's stable enough to last years. Pair it with an under-desk treadmill or balance board, and you've built yourself a workspace that works *with* your brain instead of against it.
 
 Your legs want to move. Your brain needs them to. Let them.
 

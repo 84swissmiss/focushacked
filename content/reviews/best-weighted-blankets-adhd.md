@@ -10,6 +10,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *Affiliate disclosure: Some links below are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend stuff we'd actually use.*
 
 It's 2 AM. You've been lying in bed for three hours. Your body is exhausted but your brain is hosting an involuntary TED talk about that embarrassing thing you said in 2014. You've tried counting sheep. The sheep have unionized and gone on strike.
@@ -51,7 +53,7 @@ The general rule: **10% of your body weight**, plus or minus a kilo.
 
 ### 1. Therapiedecke (Therapy Blanket): Best Overall for ADHD
 
-**Price:** ~€80-120 | [Check price on Amazon.de](https://www.amazon.de/dp/B08QN61XFV?tag=focushack-21)
+**Price:** ~€80-120 | [Check price on Amazon](https://www.amazon.com/dp/B08QN61XFV?tag=focushack-20)
 
 The Therapiedecke is a popular option in the German-speaking market, specifically designed for therapeutic use. Glass bead filling distributes weight evenly, and the cotton cover is breathable enough for year-round use.
 
@@ -61,7 +63,7 @@ The Therapiedecke is a popular option in the German-speaking market, specificall
 
 ### 2. YnM Weighted Blanket: Best Value
 
-**Price:** ~€40-60 | [Check price on Amazon.de](https://www.amazon.de/dp/B073QWB81S?tag=focushack-21)
+**Price:** ~€40-60 | [Check price on Amazon](https://www.amazon.com/dp/B073QWB81S?tag=focushack-20)
 
 YnM is one of the most popular weighted blanket brands globally, and for good reason. Glass bead filling, 7-layer construction, and available in about a million size/weight/color combinations. The small squares keep the beads evenly distributed.
 
@@ -71,7 +73,7 @@ YnM is one of the most popular weighted blanket brands globally, and for good re
 
 ### 3. Gravitas Weighted Blanket: Best Premium Option
 
-**Price:** ~€130-180 | [Check price on Amazon.de](https://www.amazon.de/dp/B0B31WMTQ4?tag=focushack-21)
+**Price:** ~€130-180 | [Check price on Amazon](https://www.amazon.com/dp/B0B31WMTQ4?tag=focushack-20)
 
 If you want the luxury experience, Gravitas delivers. Their blankets come with a removable, washable cover in either cotton (summer) or minky fleece (winter). The build quality is noticeably better than budget options. No lumpy spots, no bead leaks, no weird sounds.
 
@@ -81,7 +83,7 @@ If you want the luxury experience, Gravitas delivers. Their blankets come with a
 
 ### 4. CALMZY Weighted Blanket: Best Cooling Option
 
-**Price:** ~€90-130 | [Check price on Amazon.de](https://www.amazon.de/dp/B09KCC9ZTJ?tag=focushack-21)
+**Price:** ~€90-130 | [Check price on Amazon](https://www.amazon.com/dp/B09KCC9ZTJ?tag=focushack-20)
 
 CALMZY uses a bamboo-lyocell fabric that actively wicks moisture and stays cool. If you're a hot sleeper or live somewhere warm, this is the one.
 
@@ -91,7 +93,7 @@ CALMZY uses a bamboo-lyocell fabric that actively wicks moisture and stays cool.
 
 ### 5. Weighted Lap Pad: Best for Daytime Use
 
-**Price:** ~€20-35 | [Check price on Amazon.de](https://www.amazon.de/dp/B0CL1734XP?tag=focushack-21)
+**Price:** ~€20-35 | [Check price on Amazon](https://www.amazon.com/dp/B0CL1734XP?tag=focushack-20)
 
 Not technically a blanket, but hear me out. A weighted lap pad (2-3 kg) sits on your thighs while you work. It provides deep pressure stimulation during the day without the full blanket commitment.
 

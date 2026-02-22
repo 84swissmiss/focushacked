@@ -10,6 +10,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *Affiliate disclosure: Some links below are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend stuff we'd actually use.*
 
 You know that thing where you're in a meeting and you've already destroyed three pen caps, peeled the label off your water bottle, and are now methodically shredding a Post-it note into confetti? Yeah. You need a fidget toy.
@@ -28,7 +30,7 @@ The key is finding something that occupies your hands *without* occupying your b
 
 ### 1. Möbii Fidget Ball: Best Overall
 
-**Price:** ~€12 | [Check price on Amazon.de](https://www.amazon.de/dp/B0734HG19M?tag=focushack-21)
+**Price:** ~€12 | [Check price on Amazon](https://www.amazon.com/dp/B0734HG19M?tag=focushack-20)
 
 This little chain-link ball is my desert-island fidget. It's completely silent, fits in one hand, and the interlocking rings give you endless ways to manipulate it. Roll it, squeeze it, twist individual links, flatten it out, ball it back up.
 
@@ -38,7 +40,7 @@ This little chain-link ball is my desert-island fidget. It's completely silent, 
 
 ### 2. Thinking Putty (Crazy Aaron's): Best for Deep Focus
 
-**Price:** ~€10-15 | [Check price on Amazon.de](https://www.amazon.de/dp/B0BGY4XK7X?tag=focushack-21)
+**Price:** ~€10-15 | [Check price on Amazon](https://www.amazon.com/dp/B0BGY4XK7X?tag=focushack-20)
 
 Thinking Putty is basically silly putty for grownups, and it's incredible for long focus sessions. The magnetic putty varieties are especially addictive. You get a small magnet that makes the putty "eat" things and stretch toward it.
 
@@ -48,7 +50,7 @@ Thinking Putty is basically silly putty for grownups, and it's incredible for lo
 
 ### 3. Infinity Cube: Best for Meetings
 
-**Price:** ~€8-12 | [Check price on Amazon.de](https://www.amazon.de/dp/B0D8HNYPSQ?tag=focushack-21)
+**Price:** ~€8-12 | [Check price on Amazon](https://www.amazon.com/dp/B0D8HNYPSQ?tag=focushack-20)
 
 Eight small cubes connected by hinges that fold and unfold infinitely. The metal ones feel premium and are virtually silent. The plastic ones... not so much. Spend the extra few euros.
 
@@ -58,7 +60,7 @@ Eight small cubes connected by hinges that fold and unfold infinitely. The metal
 
 ### 4. Fidget Rings (Spinner Rings): Best for Stealth
 
-**Price:** ~€8-20 | [Check price on Amazon.de](https://www.amazon.de/dp/B0CJV5JC1W?tag=focushack-21)
+**Price:** ~€8-20 | [Check price on Amazon](https://www.amazon.com/dp/B0CJV5JC1W?tag=focushack-20)
 
 A ring with an outer band that spins freely around the inner band. You wear it. You spin it. Nobody knows.
 
@@ -68,7 +70,7 @@ A ring with an outer band that spins freely around the inner band. You wear it. 
 
 ### 5. Speks Magnetic Balls: Best for Desk Sessions
 
-**Price:** ~€25-30 | [Check price on Amazon.de](https://www.amazon.de/dp/B0DGYJJP7D?tag=focushack-21)
+**Price:** ~€25-30 | [Check price on Amazon](https://www.amazon.com/dp/B0DGYJJP7D?tag=focushack-20)
 
 Tiny, powerful magnetic balls that you can build shapes with, pull apart, and reconnect endlessly. They come in a set of 512 and live in a little magnetic case on your desk.
 
@@ -78,7 +80,7 @@ Tiny, powerful magnetic balls that you can build shapes with, pull apart, and re
 
 ### 6. Tangle Jr.: Best Budget Option
 
-**Price:** ~€5-8 | [Check price on Amazon.de](https://www.amazon.de/dp/B0034EKP8Q?tag=focushack-21)
+**Price:** ~€5-8 | [Check price on Amazon](https://www.amazon.com/dp/B0034EKP8Q?tag=focushack-20)
 
 A series of curved, interconnected sections that twist and rotate. Simple, cheap, and surprisingly effective.
 
@@ -88,7 +90,7 @@ A series of curved, interconnected sections that twist and rotate. Simple, cheap
 
 ### 7. Gear Cube (Fidget Cube 2.0): Best for Complexity Cravings
 
-**Price:** ~€10-15 | [Check price on Amazon.de](https://www.amazon.de/dp/B0D8292Q1X?tag=focushack-21)
+**Price:** ~€10-15 | [Check price on Amazon](https://www.amazon.com/dp/B0D8292Q1X?tag=focushack-20)
 
 Remember the original fidget cube with the buttons and switches? A gear cube is the grown-up version. It's a puzzle that moves in satisfying, mechanical ways. Each face has interlocking gears that rotate together.
 

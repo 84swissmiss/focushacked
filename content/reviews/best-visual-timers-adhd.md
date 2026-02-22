@@ -10,6 +10,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *Affiliate disclosure: Some links below are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend stuff we'd actually use.*
 
 "I'll just do this for five minutes" I said, three hours ago, now emerging from a Wikipedia rabbit hole about the history of elevators. If this sounds familiar, congratulations. You have time blindness, the ADHD feature nobody asked for.
@@ -32,7 +34,7 @@ If you struggle with [time blindness](/guides/adhd-time-blindness-tools/), a vis
 
 ### 1. Time Timer MOD: Best Overall
 
-**Price:** ~€35-45 | [Check price on Amazon.de](https://www.amazon.de/dp/B08K9GFDMP?tag=focushack-21)
+**Price:** ~€35-45 | [Check price on Amazon](https://www.amazon.com/dp/B08K9GFDMP?tag=focushack-20)
 
 The Time Timer is basically *the* visual timer. A red disc shrinks as time passes. That's it. That's the whole product. And it's brilliant.
 
@@ -44,7 +46,7 @@ The MOD version is portable (fits in a bag), has a silicone cover for protection
 
 ### 2. Time Timer PLUS (120 Min): Best for Longer Sessions
 
-**Price:** ~€45-55 | [Check price on Amazon.de](https://www.amazon.de/dp/B09ZLKJKKQ?tag=focushack-21)
+**Price:** ~€45-55 | [Check price on Amazon](https://www.amazon.com/dp/B09ZLKJKKQ?tag=focushack-20)
 
 Same concept as the MOD but larger (8 inches) and goes up to 120 minutes. It can sit on a desk or mount on a wall.
 
@@ -54,7 +56,7 @@ Same concept as the MOD but larger (8 inches) and goes up to 120 minutes. It can
 
 ### 3. Sand Timer Set: Best Budget Option
 
-**Price:** ~€12-18 for a set | [Check price on Amazon.de](https://www.amazon.de/dp/B088862T5K?tag=focushack-21)
+**Price:** ~€12-18 for a set | [Check price on Amazon](https://www.amazon.com/dp/B088862T5K?tag=focushack-20)
 
 Yes, hourglasses. The technology from 700 years ago. And they're legitimately great for ADHD.
 
@@ -66,7 +68,7 @@ A typical set includes 1-minute, 3-minute, 5-minute, 10-minute, 15-minute, and 3
 
 ### 4. Ticktime Cube Timer: Best for Quick Switches
 
-**Price:** ~€25-35 | [Check price on Amazon.de](https://www.amazon.de/dp/B0DBZ8XCQ6?tag=focushack-21)
+**Price:** ~€25-35 | [Check price on Amazon](https://www.amazon.com/dp/B0DBZ8XCQ6?tag=focushack-20)
 
 A hexagonal prism with preset times on each face. Turn it to 3, 5, 10, 15, 25, or 30 minutes and it starts counting down with an LED display. Flip it upside down to pause.
 
@@ -86,7 +88,7 @@ If you want the Time Timer experience on your phone or tablet, the official app 
 
 ### 6. Google Nest Hub: Best Smart Display Timer
 
-**Price:** ~€80-100 | [Check price on Amazon.de](https://www.amazon.de/dp/B0CRG7XMT7?tag=focushack-21)
+**Price:** ~€80-100 | [Check price on Amazon](https://www.amazon.com/dp/B0CRG7XMT7?tag=focushack-20)
 
 "Hey Google, set a visual timer for 25 minutes." The Nest Hub displays a full-screen countdown with a shrinking circle. You can set multiple timers and see them all.
 

@@ -8,6 +8,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *This article contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 My six-year-old was singing "Let It Go" for the 400th time while I was trying to close a deal on a call. That's when I decided to get serious about noise cancelling headphones.
@@ -44,7 +46,7 @@ No lab. No frequency charts. I tested these the way you'd actually use them.
 
 ### Sony WH-1000XM5: Best Overall for ADHD
 
-**Price:** $348 | **Battery:** 30 hours | **Style:** Over-ear | [Buy on Amazon](https://www.amazon.de/dp/B09Y2MYL5C?tag=focushack-21)
+**Price:** $348 | **Battery:** 30 hours | **Style:** Over-ear | [Buy on Amazon](https://www.amazon.com/dp/B09Y2MYL5C?tag=focushack-20)
 
 These are the ones I reach for most. The noise cancelling is the best I've tested, period. My daughter's recorder practice? Gone. The construction next door? Reduced to a faint hum.
 
@@ -58,7 +60,7 @@ The multipoint connection (two devices at once) means I can be on my laptop and 
 
 ### Apple AirPods Pro 2: Best for Apple Users
 
-**Price:** $249 | **Battery:** 6 hrs (30 with case) | **Style:** In-ear | [Buy on Amazon](https://www.amazon.de/dp/B0CHWZ9TZS?tag=focushack-21)
+**Price:** $249 | **Battery:** 6 hrs (30 with case) | **Style:** In-ear | [Buy on Amazon](https://www.amazon.com/dp/B0CHWZ9TZS?tag=focushack-20)
 
 If you're deep in the Apple ecosystem, these are almost unfairly convenient. They switch between your Mac, iPhone, and iPad automatically. When my ADHD brain decides to hop from laptop work to phone scrolling to iPad reading in the span of ten minutes, the AirPods just follow along.
 
@@ -72,7 +74,7 @@ Battery life is the weak spot. Six hours on a single charge means you need the c
 
 ### Bose QuietComfort Ultra: Best for Comfort and Sensory Overwhelm
 
-**Price:** $429 | **Battery:** 24 hours | **Style:** Over-ear | [Buy on Amazon](https://www.amazon.de/dp/B0CCZ1L489?tag=focushack-21)
+**Price:** $429 | **Battery:** 24 hours | **Style:** Over-ear | [Buy on Amazon](https://www.amazon.com/dp/B0CCZ1L489?tag=focushack-20)
 
 These are the ones I grab on bad sensory days. The noise cancelling matches the Sony, but the comfort is in a different league. I wore these for a six-hour flight and forgot they were on my head. The ear cushions are deeper and softer than anything else I tested.
 
@@ -86,7 +88,7 @@ The downside? They're bulky. Not the pair you toss in a purse and forget about. 
 
 ### Sony WF-1000XM5: Best Earbuds for Deep Focus
 
-**Price:** $278 | **Battery:** 8 hrs (24 with case) | **Style:** In-ear | [Buy on Amazon](https://www.amazon.de/dp/B0C4TLFZSZ?tag=focushack-21)
+**Price:** $278 | **Battery:** 8 hrs (24 with case) | **Style:** In-ear | [Buy on Amazon](https://www.amazon.com/dp/B0C4TLFZSZ?tag=focushack-20)
 
 Sometimes over-ear headphones feel like too much. These earbuds pack nearly the same noise cancelling as their big sibling (the XM5 over-ears) into a tiny package.
 
@@ -100,7 +102,7 @@ What I love for ADHD: the "Quick Attention" feature. Cover the left earbud with 
 
 ### Google Pixel Buds Pro 2: Best for Android and Google Users
 
-**Price:** $229 | **Battery:** 8 hrs (30 with case) | **Style:** In-ear | [Buy on Amazon](https://www.amazon.de/dp/B0CKTYFCJV?tag=focushack-21)
+**Price:** $229 | **Battery:** 8 hrs (30 with case) | **Style:** In-ear | [Buy on Amazon](https://www.amazon.com/dp/B0CKTYFCJV?tag=focushack-20)
 
 These are the Android answer to AirPods Pro. If you're in the Google ecosystem, the integration is excellent. Google Assistant access, automatic switching between Android devices, and a "find my earbuds" feature that has saved me more than once. (ADHD tax: losing things constantly.)
 
@@ -114,7 +116,7 @@ Comfort is great for earbuds. I did four-hour stretches without discomfort. And 
 
 ### Loop Quiet 2: Best Budget and Non-Electronic Option
 
-**Price:** $25 | **Battery:** None needed | **Style:** Silicone earplugs | [Buy on Amazon](https://www.amazon.de/dp/B0D3V6Y38G?tag=focushack-21)
+**Price:** $25 | **Battery:** None needed | **Style:** Silicone earplugs | [Buy on Amazon](https://www.amazon.com/dp/B0D3V6Y38G?tag=focushack-20)
 
 These aren't headphones. They're silicone earplugs that look like tiny jewelry. And they've earned a permanent spot in my bag.
 
@@ -128,7 +130,7 @@ They come in a bunch of colors. I have black ones that disappear in my ears and 
 
 ### Soundcore Space Q45 by Anker: Best Under $100
 
-**Price:** $99 | **Battery:** 50 hours | **Style:** Over-ear | [Buy on Amazon](https://www.amazon.de/dp/B0B5VHRX7F?tag=focushack-21)
+**Price:** $99 | **Battery:** 50 hours | **Style:** Over-ear | [Buy on Amazon](https://www.amazon.com/dp/B0B5VHRX7F?tag=focushack-20)
 
 Fifty hours of battery. That's not a typo. I charged these once and then forgot about charging for over a week of daily use. For someone with ADHD who forgets to charge everything, this is a legitimate selling point.
 

@@ -10,6 +10,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *Affiliate disclosure: Some links below are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend stuff we'd actually use.*
 
 My workspace used to be a war zone. Three half-empty coffee cups. A pile of "important papers" that had been untouched for six months. Sticky notes everywhere. None of them actionable. A charging cable for a phone I sold in 2022. And somehow, zero pens despite owning approximately 400 pens.
@@ -95,7 +97,7 @@ Flickering fluorescent lights are sensory hell for many ADHD (and autistic) brai
 
 A good desk lamp with adjustable brightness lets you control your visual environment. Brighter light for detail work, dimmer light for creative brainstorming. Consider a lamp with multiple color temperatures.
 
-[Check desk lamps on Amazon.de](https://www.amazon.de/dp/B0BRSPX5Z7?tag=focushack-21)
+[Check desk lamps on Amazon](https://www.amazon.com/dp/B0BRSPX5Z7?tag=focushack-20)
 
 ## Organization
 
@@ -103,20 +105,20 @@ A good desk lamp with adjustable brightness lets you control your visual environ
 
 Designate one spot near your desk (or door) for everything you need when you leave: keys, wallet, phone, badge, headphones. Every day, these items go back to the launch pad. This alone eliminates the "where are my keys?!" panic that eats 15 minutes every morning.
 
-A small tray or shelf works. [Check on Amazon.de](https://www.amazon.de/dp/B09Y41T7Q5?tag=focushack-21)
+A small tray or shelf works. [Check on Amazon](https://www.amazon.com/dp/B09Y41T7Q5?tag=focushack-20)
 
 ### Cable Management
 
 Tangled cables create visual noise that drains ADHD focus. You don't need a perfect setup. Just get cables off the desk surface.
 
-- **Cable clips** stick under the desk edge (~€8) | [Amazon.de](https://www.amazon.de/dp/B07T72KRVX?tag=focushack-21)
-- **Cable tray** under the desk for power strips (~€15) | [Amazon.de](https://www.amazon.de/dp/B08N1HX647?tag=focushack-21)
+- **Cable clips** stick under the desk edge (~€8) | [Amazon](https://www.amazon.com/dp/B07T72KRVX?tag=focushack-20)
+- **Cable tray** under the desk for power strips (~€15) | [Amazon](https://www.amazon.com/dp/B08N1HX647?tag=focushack-20)
 
 ### Whiteboard or Corkboard
 
 Put a whiteboard or corkboard on the wall directly in front of you. Write your top 3 priorities for the day. Every time you look up, you see what you're supposed to be doing. This is WAY more effective than a to-do list buried in an app.
 
-[Check whiteboards on Amazon.de](https://www.amazon.de/dp/B0B16T9CCY?tag=focushack-21)
+[Check whiteboards on Amazon](https://www.amazon.com/dp/B0B16T9CCY?tag=focushack-20)
 
 ### The "Doom Box"
 
@@ -130,7 +132,7 @@ Don't cheap out on your chair. You sit in it 8+ hours a day. Back pain and disco
 
 If a standard chair feels too... static, consider:
 
-- **Wobble cushion**: sits on your chair, lets you micro-move (~€20) | [Amazon.de](https://www.amazon.de/dp/B09XN9GLZ1?tag=focushack-21)
+- **Wobble cushion**: sits on your chair, lets you micro-move (~€20) | [Amazon](https://www.amazon.com/dp/B09XN9GLZ1?tag=focushack-20)
 - **Active sitting stool**: for periods at your standing desk
 - **Exercise ball**: not as your main chair (your back will hate you), but as an occasional swap
 

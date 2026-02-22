@@ -8,6 +8,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *This article contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 Most planners are designed for people who already have their life together. The ones who wake up at 5 AM, journal for 20 minutes, and actually *use* their color-coded system past January 14th.
@@ -67,7 +69,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Not much room for free-form notes
 - Dated versions mean you feel guilty about skipped weeks
 
-[👉 Buy Passion Planner on Amazon](https://www.amazon.de/dp/B07RP74G51?tag=focushack-21)
+[👉 Buy Passion Planner on Amazon](https://www.amazon.com/dp/B07RP74G51?tag=focushack-20)
 
 ---
 
@@ -92,7 +94,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Not great for long-term project planning
 - The daily format might be too repetitive for novelty-seekers
 
-[👉 Buy Panda Planner on Amazon](https://www.amazon.de/dp/B08M17P6S9?tag=focushack-21)
+[👉 Buy Panda Planner on Amazon](https://www.amazon.com/dp/B08M17P6S9?tag=focushack-20)
 
 ---
 
@@ -118,7 +120,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Can feel overwhelming with too many options
 - Requires ongoing effort to maintain
 
-[👉 Buy Happy Planner on Amazon](https://www.amazon.de/dp/B06VTV6R2N?tag=focushack-21)
+[👉 Buy Happy Planner on Amazon](https://www.amazon.com/dp/B06VTV6R2N?tag=focushack-20)
 
 ---
 
@@ -143,7 +145,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Not as visually exciting as some competitors
 - Limited room for brain dumps
 
-[👉 Buy Clever Fox Planner on Amazon](https://www.amazon.de/dp/B07HK7RNMQ?tag=focushack-21)
+[👉 Buy Clever Fox Planner on Amazon](https://www.amazon.com/dp/B07HK7RNMQ?tag=focushack-20)
 
 ---
 

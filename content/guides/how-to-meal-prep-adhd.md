@@ -10,6 +10,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *Affiliate disclosure: Some links below are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend stuff we'd actually use.*
 
 Let me describe the ADHD dinner experience: It's 7 PM. You're starving. You open the fridge. Stare at it for four minutes. Close the fridge. Open the pantry. Stare at it. Close the pantry. Open the fridge again as if new food materialized in the last 30 seconds. Consider ordering pizza for the fifth time this week. Feel guilty. Open the fridge again. Give up. Eat cereal standing over the sink.
@@ -74,19 +76,19 @@ The hardest part is starting. So remove every barrier:
 
 The right tools reduce friction. These are worth every cent:
 
-**Instant Pot / Multi-Cooker** (~€80-100) | [Check on Amazon.de](https://www.amazon.de/dp/B00OP26T4K?tag=focushack-21)
+**Instant Pot / Multi-Cooker** (~€80-100) | [Check on Amazon](https://www.amazon.com/dp/B00FLYWNYQ?tag=focushack-20)
 Throw ingredients in, press a button, walk away. It beeps when done. No stirring, no monitoring, no forgetting something on the stove. This single appliance has saved more ADHD dinners than any amount of willpower.
 
-**Sheet Pan Set** (~€20-30) | [Check on Amazon.de](https://www.amazon.de/dp/B0095I733U?tag=focushack-21)
+**Sheet Pan Set** (~€20-30) | [Check on Amazon](https://www.amazon.com/dp/B0095I733U?tag=focushack-20)
 Sheet pan dinners are the ADHD holy grail. Chop stuff, throw it on the pan, season it, oven at 200°C for 25 minutes. One pan. One cleanup. Set a timer (please, for the love of god, set a timer).
 
-**Glass Meal Prep Containers** (~€25-35 for a set) | [Check on Amazon.de](https://www.amazon.de/dp/B06Y31WGWR?tag=focushack-21)
+**Glass Meal Prep Containers** (~€25-35 for a set) | [Check on Amazon](https://www.amazon.com/dp/B06Y31WGWR?tag=focushack-20)
 Clear containers mean you can *see* what's inside without opening them. This is huge for ADHD. If it's in an opaque container, it doesn't exist. Glass also doesn't stain or absorb smells like plastic.
 
-**Magnetic Whiteboard for Fridge** (~€10-15) | [Check on Amazon.de](https://www.amazon.de/dp/B074P3WN8R?tag=focushack-21)
+**Magnetic Whiteboard for Fridge** (~€10-15) | [Check on Amazon](https://www.amazon.com/dp/B074P3WN8R?tag=focushack-20)
 Write your 5-meal rotation on it. Write your grocery list on it. Cross things off. It's the most ADHD-friendly organizational tool in the kitchen. Always visible, always editable.
 
-**Food Chopper / Vegetable Dicer** (~€20-30) | [Check on Amazon.de](https://www.amazon.de/dp/B0C4TK827M?tag=focushack-21)
+**Food Chopper / Vegetable Dicer** (~€20-30) | [Check on Amazon](https://www.amazon.com/dp/B0C4TK827M?tag=focushack-20)
 Chopping is the most tedious part of prep. A good chopper reduces a 15-minute chopping session to 3 minutes. Less time = less chance of abandoning the task.
 
 ### Rule 5: The Freezer Is Your Best Friend

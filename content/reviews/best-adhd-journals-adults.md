@@ -9,6 +9,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 *This article contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 I have a graveyard of half-used journals. Moleskines with three pages filled. A Leuchtturm with one spectacular brain dump dated March 4th and then nothing until a grocery list in July. A bullet journal where I spent four hours designing a habit tracker I never once tracked a habit in.
@@ -65,7 +67,7 @@ What I don't love: It's not a *journal* journal. If you want long-form writing s
 
 **Who it's for:** Anyone who needs permission to do things imperfectly. Which is… all of us?
 
-[👉 Buy The Anti-Planner on Amazon](https://www.amazon.de/dp/1944627073?tag=focushack-21)
+[👉 Buy The Anti-Planner on Amazon](https://www.amazon.com/dp/1944627073?tag=focushack-20)
 
 ---
 
@@ -83,7 +85,7 @@ I use mine specifically for the "my brain is too full to function" moments. Fift
 
 **Who it's for:** People who want a **brain dump journal for ADHD** without any bells and whistles. Just paper. Just chaos. Just relief.
 
-[👉 Buy on Amazon](https://www.amazon.de/dp/B09BM38HRH?tag=focushack-21)
+[👉 Buy on Amazon](https://www.amazon.com/dp/B09BM38HRH?tag=focushack-20)
 
 ---
 
@@ -101,7 +103,7 @@ What I don't love: The dated pages. Miss a few days and you've got blank pages s
 
 **Who it's for:** ADHD adults who want a daily gratitude/reflection practice but know they'll abandon anything that takes longer than brushing their teeth.
 
-[👉 Buy The Five-Minute Journal on Amazon](https://www.amazon.de/dp/0991846206?tag=focushack-21)
+[👉 Buy The Five-Minute Journal on Amazon](https://www.amazon.com/dp/0991846206?tag=focushack-20)
 
 ---
 
@@ -119,7 +121,7 @@ The beauty of a blank notebook is that there's nothing to fail at. You can't do 
 
 **Who it's for:** People who've tried ADHD-specific journals and found them too structured, or anyone who wants a brain dump journal they can make their own.
 
-[👉 Buy Lemome Dotted Notebook on Amazon](https://www.amazon.de/dp/B07168XGHT?tag=focushack-21)
+[👉 Buy Lemome Dotted Notebook on Amazon](https://www.amazon.com/dp/B07168XGHT?tag=focushack-20)
 
 ---
 
@@ -137,7 +139,7 @@ Fair warning: this is more of a "work through it once" journal than a daily prac
 
 **Who it's for:** Newly diagnosed adults, or anyone who wants their **ADHD journaling** to be more therapeutic and less "random brain noise on paper."
 
-[👉 Buy ADHD Workbook Journal on Amazon](https://www.amazon.de/dp/B09T3FP396?tag=focushack-21)
+[👉 Buy ADHD Workbook Journal on Amazon](https://www.amazon.com/dp/B09T3FP396?tag=focushack-20)
 
 ---
 
@@ -157,7 +159,7 @@ It's not perfect. The Frixion pens feel different from normal pens, and the pape
 
 **Who it's for:** Digital-leaning ADHD adults who want physical writing but always lose or forget their notebooks.
 
-[👉 Buy Rocketbook Core on Amazon](https://www.amazon.de/dp/B06ZXWVZ3X?tag=focushack-21)
+[👉 Buy Rocketbook Core on Amazon](https://www.amazon.com/dp/B06ZXWVZ3X?tag=focushack-20)
 
 ---
 
@@ -173,7 +175,7 @@ I'll be honest: I bought this partly because it's pretty and partly because I th
 
 **Who it's for:** ADHD adults who are motivated by aesthetics and want a wellness-focused journal that doesn't demand daily commitment.
 
-[👉 Buy Papier Wellness Journal on Amazon](https://www.amazon.de/dp/B0CHF52V4W?tag=focushack-21)
+[👉 Buy Papier Wellness Journal on Amazon](https://www.amazon.com/dp/B0CHF52V4W?tag=focushack-20)
 
 ---
 
