@@ -12,7 +12,7 @@ TocOpen: true
 
 *Affiliate disclosure: Some links below are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend stuff we'd actually use.*
 
-My workspace used to be a war zone. Three half-empty coffee cups. A pile of "important papers" that had been untouched for six months. Sticky notes everywhere — none of them actionable. A charging cable for a phone I sold in 2022. And somehow, zero pens despite owning approximately 400 pens.
+My workspace used to be a war zone. Three half-empty coffee cups. A pile of "important papers" that had been untouched for six months. Sticky notes everywhere. None of them actionable. A charging cable for a phone I sold in 2022. And somehow, zero pens despite owning approximately 400 pens.
 
 If your workspace looks like this, your ADHD brain is fighting an uphill battle before you even start working. Your environment shapes your focus more than any productivity hack or app ever could. A chaotic space creates a chaotic mind. An intentional space creates... well, a slightly less chaotic mind. We're going for progress, not perfection.
 
@@ -24,7 +24,7 @@ Before buying anything, understand these three principles:
 
 ### 1. Visibility = Existence
 
-For ADHD brains, if you can't see it, it doesn't exist. That's why stuff piles up on surfaces — putting it away means forgetting it exists. Design your workspace so that important things are visible and unimportant things are hidden.
+For ADHD brains, if you can't see it, it doesn't exist. That's why stuff piles up on surfaces. Putting it away means forgetting it exists. Design your workspace so that important things are visible and unimportant things are hidden.
 
 ### 2. Friction Is the Enemy
 
@@ -32,7 +32,7 @@ Every extra step between "I should do the thing" and "I'm doing the thing" is a 
 
 ### 3. Stimulation Control
 
-ADHD brains are either under-stimulated (bored, can't focus) or over-stimulated (overwhelmed, can't focus). Your workspace should give you control over stimulation levels — the ability to add or remove sensory input as needed.
+ADHD brains are either under-stimulated (bored, can't focus) or over-stimulated (overwhelmed, can't focus). Your workspace should give you control over stimulation levels. That means the ability to add or remove sensory input as needed.
 
 ## Your Desk
 
@@ -77,7 +77,7 @@ Experiment. The "right" background sound varies by person and task.
 
 ### The Silence Problem
 
-Complete silence is actually bad for many ADHD brains. Without auditory input, your brain creates its own — racing thoughts, earworms, phantom sounds. A consistent low background sound fills the void without demanding attention.
+Complete silence is actually bad for many ADHD brains. Without auditory input, your brain creates its own: racing thoughts, earworms, phantom sounds. A consistent low background sound fills the void without demanding attention.
 
 ## Lighting
 
@@ -95,7 +95,7 @@ Flickering fluorescent lights are sensory hell for many ADHD (and autistic) brai
 
 A good desk lamp with adjustable brightness lets you control your visual environment. Brighter light for detail work, dimmer light for creative brainstorming. Consider a lamp with multiple color temperatures.
 
-[Check desk lamps on Amazon.de](https://www.amazon.de/s?k=Schreibtischlampe+LED+dimmbar&tag=focushack-21)
+[Check desk lamps on Amazon.de](https://www.amazon.de/dp/B0BRSPX5Z7?tag=focushack-21)
 
 ## Organization
 
@@ -103,20 +103,20 @@ A good desk lamp with adjustable brightness lets you control your visual environ
 
 Designate one spot near your desk (or door) for everything you need when you leave: keys, wallet, phone, badge, headphones. Every day, these items go back to the launch pad. This alone eliminates the "where are my keys?!" panic that eats 15 minutes every morning.
 
-A small tray or shelf works. [Check on Amazon.de](https://www.amazon.de/s?k=Schlüsselablage+Organizer+Eingang&tag=focushack-21)
+A small tray or shelf works. [Check on Amazon.de](https://www.amazon.de/dp/B09Y41T7Q5?tag=focushack-21)
 
 ### Cable Management
 
-Tangled cables create visual noise that drains ADHD focus. You don't need a perfect setup — just get cables off the desk surface.
+Tangled cables create visual noise that drains ADHD focus. You don't need a perfect setup. Just get cables off the desk surface.
 
-- **Cable clips** stick under the desk edge (~€8) | [Amazon.de](https://www.amazon.de/s?k=Kabelclips+Schreibtisch&tag=focushack-21)
-- **Cable tray** under the desk for power strips (~€15) | [Amazon.de](https://www.amazon.de/s?k=Kabelkanal+Schreibtisch+Untertisch&tag=focushack-21)
+- **Cable clips** stick under the desk edge (~€8) | [Amazon.de](https://www.amazon.de/dp/B07T72KRVX?tag=focushack-21)
+- **Cable tray** under the desk for power strips (~€15) | [Amazon.de](https://www.amazon.de/dp/B08N1HX647?tag=focushack-21)
 
 ### Whiteboard or Corkboard
 
 Put a whiteboard or corkboard on the wall directly in front of you. Write your top 3 priorities for the day. Every time you look up, you see what you're supposed to be doing. This is WAY more effective than a to-do list buried in an app.
 
-[Check whiteboards on Amazon.de](https://www.amazon.de/s?k=Whiteboard+magnetisch+Wand&tag=focushack-21)
+[Check whiteboards on Amazon.de](https://www.amazon.de/dp/B0B16T9CCY?tag=focushack-21)
 
 ### The "Doom Box"
 
@@ -130,9 +130,9 @@ Don't cheap out on your chair. You sit in it 8+ hours a day. Back pain and disco
 
 If a standard chair feels too... static, consider:
 
-- **Wobble cushion** — sits on your chair, lets you micro-move (~€20) | [Amazon.de](https://www.amazon.de/s?k=Balancekissen+Büro&tag=focushack-21)
-- **Active sitting stool** — for periods at your standing desk
-- **Exercise ball** — not as your main chair (your back will hate you), but as an occasional swap
+- **Wobble cushion**: sits on your chair, lets you micro-move (~€20) | [Amazon.de](https://www.amazon.de/dp/B09XN9GLZ1?tag=focushack-21)
+- **Active sitting stool**: for periods at your standing desk
+- **Exercise ball**: not as your main chair (your back will hate you), but as an occasional swap
 
 ## Digital Environment
 
@@ -140,7 +140,7 @@ Your physical workspace is only half the battle. Your digital space matters too.
 
 ### One Screen vs. Multiple Screens
 
-Hot take: **one monitor might be better for ADHD than two.** Multiple screens mean multiple distractions. If you use two monitors, keep your main work on one screen and put the other on a specific reference/communication only — don't let it become a distraction screen.
+Hot take: **one monitor might be better for ADHD than two.** Multiple screens mean multiple distractions. If you use two monitors, keep your main work on one screen and put the other on a specific reference/communication only. Don't let it become a distraction screen.
 
 ### Phone Location
 
@@ -150,17 +150,17 @@ Check out our [best ADHD apps guide](/reviews/best-adhd-apps-2026/) for tools th
 
 ### Browser Hygiene
 
-Use a browser extension to block distracting sites during work hours. Close tabs you're not using (I know, I know — "but I might need that tab!" — you won't. Bookmark it and close it).
+Use a browser extension to block distracting sites during work hours. Close tabs you're not using (I know, I know. "But I might need that tab!." You won't. Bookmark it and close it).
 
 ## Sensory Add-Ons
 
 These are the cherry-on-top items that can meaningfully improve focus:
 
-- **[Fidget toys](/reviews/best-fidget-toys-adhd-adults/)** — keep 2-3 on your desk
-- **[Visual timer](/reviews/best-visual-timers-adhd/)** — make time visible
-- **[Weighted lap pad](/reviews/best-weighted-blankets-adhd/)** — calming pressure while working
-- **A plant** — seriously. A small plant adds life and a tiny bit of nature. It's weirdly grounding.
-- **Essential oil diffuser or scented candle** — rosemary and peppermint are linked to alertness. Even if the science is meh, if it makes your workspace smell nice, that's a win.
+- **[Fidget toys](/reviews/best-fidget-toys-adhd-adults/)**: keep 2-3 on your desk
+- **[Visual timer](/reviews/best-visual-timers-adhd/)**: make time visible
+- **[Weighted lap pad](/reviews/best-weighted-blankets-adhd/)**: calming pressure while working
+- **A plant**: seriously. A small plant adds life and a tiny bit of nature. It's weirdly grounding.
+- **Essential oil diffuser or scented candle**: rosemary and peppermint are linked to alertness. Even if the science is meh, if it makes your workspace smell nice, that's a win.
 
 ## The Complete ADHD Workspace Checklist
 
@@ -184,15 +184,15 @@ You don't need all of this at once. Start with the top 3 items that would make t
 
 ### What's the single most important thing for an ADHD workspace?
 
-Reducing visual clutter. A clear desk surface with only what you're currently working on removes background noise for your brain. Everything else — timers, headphones, lighting — is secondary to having a clean visual field.
+Reducing visual clutter. A clear desk surface with only what you're currently working on removes background noise for your brain. Everything .  Timers, headphones, lighting? All secondary to having a clean visual field.
 
 ### Should I work from home or an office with ADHD?
 
-It depends on your ADHD. If you struggle with self-starting, an office provides structure and social accountability. If you struggle with sensory overload, home gives you control. Many ADHD adults do best with a hybrid setup — some days at home for deep focus, some days in the office for social stimulation.
+It depends on your ADHD. If you struggle with self-starting, an office provides structure and social accountability. If you struggle with sensory overload, home gives you control. Many ADHD adults do best with a hybrid setup. Some days at home for deep focus, some days in the office for social stimulation.
 
 ### How do I keep my workspace clean with ADHD?
 
-Don't aim for spotless. Aim for "functional." The doom box technique helps — toss random stuff in one container. Set a 5-minute timer at the end of each workday to do a quick reset. That's it. Five minutes. Your workspace doesn't need to be Pinterest-worthy. It needs to be usable.
+Don't aim for spotless. Aim for "functional." The doom box technique helps. Toss random stuff in one container. Set a 5-minute timer at the end of each workday to do a quick reset. That's it. Five minutes. Your workspace doesn't need to be Pinterest-worthy. It needs to be usable.
 
 ### Is a second monitor good or bad for ADHD?
 
@@ -200,8 +200,8 @@ It can go either way. If you have the discipline to keep distractions off the se
 
 ### How much should I spend on setting up an ADHD workspace?
 
-Start with €0 — declutter your existing space, move your phone to another room, write your priorities on a piece of paper and tape it to the wall. Then add things as budget allows. A [standing desk](/reviews/best-standing-desks-adhd/) and [noise-cancelling headphones](/reviews/best-noise-cancelling-headphones-adhd/) are the two highest-impact purchases.
+Start with €0. Declutter your existing space, move your phone to another room, write your priorities on a piece of paper and tape it to the wall. Then add things as budget allows. A [standing desk](/reviews/best-standing-desks-adhd/) and [noise-cancelling headphones](/reviews/best-noise-cancelling-headphones-adhd/) are the two highest-impact purchases.
 
 ---
 
-*Your workspace isn't just where you work. It's the physical container for your ADHD brain. Treat it like the sensitive instrument it is — give it the right environment and it'll perform surprisingly well. Give it chaos and... well, you already know what happens.*
+*Your workspace isn't just where you work. It's the physical container for your ADHD brain. Treat it like the sensitive instrument it is. Give it the right environment and it'll perform surprisingly well. Give it chaos and... well, you already know what happens.*

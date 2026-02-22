@@ -26,10 +26,10 @@ Every tool on this site gets used for at least two weeks in my actual life. Not 
 
 I look at:
 
-- **Setup friction** — If it takes 45 minutes to configure, I've already lost interest
-- **ADHD-specific features** — Does it actually help with time blindness, task initiation, or overwhelm?
-- **Stick factor** — Am I still using it after week two, or did it join the app graveyard?
-- **Price vs. value** — Because ADHD tax is real enough without overpaying for apps
+- **Setup friction**: If it takes 45 minutes to configure, I've already lost interest
+- **ADHD-specific features**: Does it actually help with time blindness, task initiation, or overwhelm?
+- **Stick factor**: Am I still using it after week two, or did it join the app graveyard?
+- **Price vs. value**: Because ADHD tax is real enough without overpaying for apps
 
 ## How this site makes money
 

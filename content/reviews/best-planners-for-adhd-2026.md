@@ -67,7 +67,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Not much room for free-form notes
 - Dated versions mean you feel guilty about skipped weeks
 
-[👉 Buy Passion Planner on Amazon](https://www.amazon.de/s?k=Passion+Planner&tag=focushack-21)
+[👉 Buy Passion Planner on Amazon](https://www.amazon.de/dp/B07RP74G51?tag=focushack-21)
 
 ---
 
@@ -92,7 +92,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Not great for long-term project planning
 - The daily format might be too repetitive for novelty-seekers
 
-[👉 Buy Panda Planner on Amazon](https://www.amazon.de/s?k=Panda+Planner&tag=focushack-21)
+[👉 Buy Panda Planner on Amazon](https://www.amazon.de/dp/B08M17P6S9?tag=focushack-21)
 
 ---
 
@@ -118,7 +118,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Can feel overwhelming with too many options
 - Requires ongoing effort to maintain
 
-[👉 Buy Happy Planner on Amazon](https://www.amazon.de/s?k=Happy+Planner+ADHD&tag=focushack-21)
+[👉 Buy Happy Planner on Amazon](https://www.amazon.de/dp/B06VTV6R2N?tag=focushack-21)
 
 ---
 
@@ -143,7 +143,7 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Not as visually exciting as some competitors
 - Limited room for brain dumps
 
-[👉 Buy Clever Fox Planner on Amazon](https://www.amazon.de/s?k=Clever+Fox+Planner&tag=focushack-21)
+[👉 Buy Clever Fox Planner on Amazon](https://www.amazon.de/dp/B07HK7RNMQ?tag=focushack-21)
 
 ---
 

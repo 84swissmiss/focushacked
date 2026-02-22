@@ -12,7 +12,7 @@ TocOpen: true
 
 *Affiliate disclosure: Some links below are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend stuff we'd actually use.*
 
-"I'll just do this for five minutes" I said, three hours ago, now emerging from a Wikipedia rabbit hole about the history of elevators. If this sounds familiar, congratulations — you have time blindness, the ADHD feature nobody asked for.
+"I'll just do this for five minutes" I said, three hours ago, now emerging from a Wikipedia rabbit hole about the history of elevators. If this sounds familiar, congratulations. You have time blindness, the ADHD feature nobody asked for.
 
 Time blindness isn't laziness. It's a genuine neurological thing where your brain literally cannot perceive the passage of time accurately. Five minutes and fifty minutes feel the same. Deadlines exist in some vague theoretical future until they're suddenly RIGHT NOW OH GOD.
 
@@ -30,9 +30,9 @@ If you struggle with [time blindness](/guides/adhd-time-blindness-tools/), a vis
 
 ## The Best Visual Timers for ADHD
 
-### 1. Time Timer MOD — Best Overall
+### 1. Time Timer MOD: Best Overall
 
-**Price:** ~€35-45 | [Check price on Amazon.de](https://www.amazon.de/s?k=Time+Timer+MOD&tag=focushack-21)
+**Price:** ~€35-45 | [Check price on Amazon.de](https://www.amazon.de/dp/B08K9GFDMP?tag=focushack-21)
 
 The Time Timer is basically *the* visual timer. A red disc shrinks as time passes. That's it. That's the whole product. And it's brilliant.
 
@@ -42,31 +42,31 @@ The MOD version is portable (fits in a bag), has a silicone cover for protection
 
 **Downsides:** Only goes up to 60 minutes. If you need longer timers, look at the Time Timer PLUS (120 minutes) or the app version.
 
-### 2. Time Timer PLUS (120 Min) — Best for Longer Sessions
+### 2. Time Timer PLUS (120 Min): Best for Longer Sessions
 
-**Price:** ~€45-55 | [Check price on Amazon.de](https://www.amazon.de/s?k=Time+Timer+PLUS+120&tag=focushack-21)
+**Price:** ~€45-55 | [Check price on Amazon.de](https://www.amazon.de/dp/B09ZLKJKKQ?tag=focushack-21)
 
 Same concept as the MOD but larger (8 inches) and goes up to 120 minutes. It can sit on a desk or mount on a wall.
 
 **Why it works for ADHD:** If you do longer focus sessions (60-90 minute deep work blocks), this is the one. The larger size makes it visible from across the room, which is great if you tend to wander away from your desk (who among us...).
 
-**Downsides:** It's not portable. This is a desk/wall timer. And at this price, it's an investment — but honestly, it pays for itself in reclaimed hours.
+**Downsides:** It's not portable. This is a desk/wall timer. And at this price, it's an investment. But honestly, it pays for itself in reclaimed hours.
 
-### 3. Sand Timer Set — Best Budget Option
+### 3. Sand Timer Set: Best Budget Option
 
-**Price:** ~€12-18 for a set | [Check price on Amazon.de](https://www.amazon.de/s?k=sand+timer+set+hourglass+5+10+15+30&tag=focushack-21)
+**Price:** ~€12-18 for a set | [Check price on Amazon.de](https://www.amazon.de/dp/B088862T5K?tag=focushack-21)
 
 Yes, hourglasses. The technology from 700 years ago. And they're legitimately great for ADHD.
 
 A typical set includes 1-minute, 3-minute, 5-minute, 10-minute, 15-minute, and 30-minute timers, each with different colored sand. You flip one over and watch the sand fall.
 
-**Why it works for ADHD:** There's something deeply satisfying about watching sand flow. It's almost meditative. And the physical act of flipping the timer creates a ritual — a starting signal that tells your brain "we're doing this now." Plus, they look cool on a shelf.
+**Why it works for ADHD:** There's something deeply satisfying about watching sand flow. It's almost meditative. And the physical act of flipping the timer creates a ritual, a starting signal that tells your brain "we're doing this now." Plus, they look cool on a shelf.
 
 **Downsides:** No alarm. When the sand runs out, it just... sits there silently. You need to actually look at it. Not ideal if you hyperfocus and forget the timer exists.
 
-### 4. Ticktime Cube Timer — Best for Quick Switches
+### 4. Ticktime Cube Timer: Best for Quick Switches
 
-**Price:** ~€25-35 | [Check price on Amazon.de](https://www.amazon.de/s?k=Ticktime+cube+timer&tag=focushack-21)
+**Price:** ~€25-35 | [Check price on Amazon.de](https://www.amazon.de/dp/B0DBZ8XCQ6?tag=focushack-21)
 
 A hexagonal prism with preset times on each face. Turn it to 3, 5, 10, 15, 25, or 30 minutes and it starts counting down with an LED display. Flip it upside down to pause.
 
@@ -74,7 +74,7 @@ A hexagonal prism with preset times on each face. Turn it to 3, 5, 10, 15, 25, o
 
 **Downsides:** The LED display is numbers-based, not a visual disc. It's still better than a phone timer (no notification rabbit holes), but less "visual" than a Time Timer.
 
-### 5. Time Timer App (iOS/Android) — Best Digital Option
+### 5. Time Timer App (iOS/Android): Best Digital Option
 
 **Price:** ~€3-5 | [iOS](https://apps.apple.com/app/time-timer/id332520417) / [Android](https://play.google.com/store/apps/details?id=com.timetimer.android)
 
@@ -84,9 +84,9 @@ If you want the Time Timer experience on your phone or tablet, the official app 
 
 **Downsides:** It's on your phone. Your phone is a distraction vortex. Every time you check the timer, you risk seeing a notification and disappearing for 40 minutes. For this reason alone, I strongly recommend a physical timer. But if you have discipline (lol) or use a dedicated tablet, the app is solid.
 
-### 6. Google Nest Hub — Best Smart Display Timer
+### 6. Google Nest Hub: Best Smart Display Timer
 
-**Price:** ~€80-100 | [Check price on Amazon.de](https://www.amazon.de/s?k=Google+Nest+Hub&tag=focushack-21)
+**Price:** ~€80-100 | [Check price on Amazon.de](https://www.amazon.de/dp/B0CRG7XMT7?tag=focushack-21)
 
 "Hey Google, set a visual timer for 25 minutes." The Nest Hub displays a full-screen countdown with a shrinking circle. You can set multiple timers and see them all.
 
@@ -103,13 +103,13 @@ Buying a timer is the easy part. Here's how to make it work:
 The classic Pomodoro is 25 minutes on, 5 minutes off. For ADHD brains, I recommend:
 
 1. **Start with 15-minute blocks** if 25 feels impossible
-2. **Use the timer for breaks too** — ADHD brains are notoriously bad at ending breaks
-3. **Don't restart the timer if you get distracted** — just refocus and keep going until it runs out
+2. **Use the timer for breaks too**: ADHD brains are notoriously bad at ending breaks
+3. **Don't restart the timer if you get distracted**: just refocus and keep going until it runs out
 4. **Pair with a [to-do list app](/reviews/best-to-do-list-apps-adhd/)** so you know what to work on each block
 
 ### The "Time Tax" Technique
 
-Before any task, set your timer for how long you *think* it'll take. When it goes off, note how much you actually got done. Over time, you'll build a more accurate internal clock. ADHD brains are famously optimistic about time estimates — this trains you to be realistic.
+Before any task, set your timer for how long you *think* it'll take. When it goes off, note how much you actually got done. Over time, you'll build a more accurate internal clock. ADHD brains are famously optimistic about time estimates. This trains you to be realistic.
 
 ### Transition Timers
 
@@ -119,7 +119,7 @@ Set a 5-minute timer between activities. "In 5 minutes, I'm switching from email
 
 ### Do visual timers really help with ADHD time blindness?
 
-Yes. Visual timers externalize time — they make an invisible thing visible. For ADHD brains that can't internally sense time passing, this is a game changer. Multiple ADHD coaches and therapists recommend visual timers as a front-line tool for time management.
+Yes. Visual timers externalize time. They make an invisible thing visible. For ADHD brains that can't internally sense time passing, this is a game changer. Multiple ADHD coaches and therapists recommend visual timers as a front-line tool for time management.
 
 ### What's the best visual timer for adults with ADHD?
 

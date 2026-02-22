@@ -20,14 +20,14 @@ Weighted blankets won't cure ADHD. But they're one of the few physical tools tha
 
 ## How Weighted Blankets Help ADHD
 
-Weighted blankets use deep pressure therapy (DPT) — the same principle behind tight hugs, compression vests, and that satisfying feeling of being squished between couch cushions (don't pretend you don't do this).
+Weighted blankets use deep pressure therapy (DPT). The same principle behind tight hugs, compression vests, and that satisfying feeling of being squished between couch cushions (don't pretend you don't do this).
 
 Deep pressure stimulation:
 
 - **Increases serotonin and melatonin** production (hello, sleep)
 - **Decreases cortisol** (stress hormone)
 - **Activates the parasympathetic nervous system** (the "calm down" system)
-- **Reduces restlessness** — which is huge for ADHD
+- **Reduces restlessness**: which is huge for ADHD
 
 A 2020 study in the *Journal of Clinical Sleep Medicine* found that weighted blankets significantly improved sleep in people with insomnia, ADHD, and anxiety disorders. Participants fell asleep faster, slept longer, and reported feeling more rested.
 
@@ -49,19 +49,19 @@ The general rule: **10% of your body weight**, plus or minus a kilo.
 
 ## The Best Weighted Blankets for ADHD
 
-### 1. Therapiedecke (Therapy Blanket) — Best Overall for ADHD
+### 1. Therapiedecke (Therapy Blanket): Best Overall for ADHD
 
-**Price:** ~€80-120 | [Check price on Amazon.de](https://www.amazon.de/s?k=Therapiedecke+Gewichtsdecke&tag=focushack-21)
+**Price:** ~€80-120 | [Check price on Amazon.de](https://www.amazon.de/dp/B08QN61XFV?tag=focushack-21)
 
 The Therapiedecke is a popular option in the German-speaking market, specifically designed for therapeutic use. Glass bead filling distributes weight evenly, and the cotton cover is breathable enough for year-round use.
 
-**Why it's great for ADHD:** The even weight distribution means no clumping or shifting — the pressure stays consistent all night. The cotton fabric doesn't trap heat, which is crucial because ADHD meds (especially stimulants) can make you run hot.
+**Why it's great for ADHD:** The even weight distribution means no clumping or shifting. The pressure stays consistent all night. The cotton fabric doesn't trap heat, which is crucial because ADHD meds (especially stimulants) can make you run hot.
 
 **Downsides:** On the pricier side. But you use it every single night, so cost per use is pennies.
 
-### 2. YnM Weighted Blanket — Best Value
+### 2. YnM Weighted Blanket: Best Value
 
-**Price:** ~€40-60 | [Check price on Amazon.de](https://www.amazon.de/s?k=YnM+Gewichtsdecke&tag=focushack-21)
+**Price:** ~€40-60 | [Check price on Amazon.de](https://www.amazon.de/dp/B073QWB81S?tag=focushack-21)
 
 YnM is one of the most popular weighted blanket brands globally, and for good reason. Glass bead filling, 7-layer construction, and available in about a million size/weight/color combinations. The small squares keep the beads evenly distributed.
 
@@ -69,19 +69,19 @@ YnM is one of the most popular weighted blanket brands globally, and for good re
 
 **Downsides:** The outer fabric on the basic version isn't the softest. Highly recommend getting a separate duvet cover for it.
 
-### 3. Gravitas Weighted Blanket — Best Premium Option
+### 3. Gravitas Weighted Blanket: Best Premium Option
 
-**Price:** ~€130-180 | [Check price on Amazon.de](https://www.amazon.de/s?k=Gravitas+Gewichtsdecke&tag=focushack-21)
+**Price:** ~€130-180 | [Check price on Amazon.de](https://www.amazon.de/dp/B0B31WMTQ4?tag=focushack-21)
 
-If you want the luxury experience, Gravitas delivers. Their blankets come with a removable, washable cover in either cotton (summer) or minky fleece (winter). The build quality is noticeably better than budget options — no lumpy spots, no bead leaks, no weird sounds.
+If you want the luxury experience, Gravitas delivers. Their blankets come with a removable, washable cover in either cotton (summer) or minky fleece (winter). The build quality is noticeably better than budget options. No lumpy spots, no bead leaks, no weird sounds.
 
-**Why it's great for ADHD:** The two-cover system means you can switch based on temperature, which is a real concern for ADHD folks on stimulant medication. The fleece cover is also incredibly tactile — an additional sensory bonus.
+**Why it's great for ADHD:** The two-cover system means you can switch based on temperature, which is a real concern for ADHD folks on stimulant medication. The fleece cover is also incredibly tactile. An additional sensory bonus.
 
 **Downsides:** Expensive. But if you can swing it, the sleep improvement might be worth more than any supplement or gadget.
 
-### 4. CALMZY Weighted Blanket — Best Cooling Option
+### 4. CALMZY Weighted Blanket: Best Cooling Option
 
-**Price:** ~€90-130 | [Check price on Amazon.de](https://www.amazon.de/s?k=CALMZY+Gewichtsdecke&tag=focushack-21)
+**Price:** ~€90-130 | [Check price on Amazon.de](https://www.amazon.de/dp/B09KCC9ZTJ?tag=focushack-21)
 
 CALMZY uses a bamboo-lyocell fabric that actively wicks moisture and stays cool. If you're a hot sleeper or live somewhere warm, this is the one.
 
@@ -89,9 +89,9 @@ CALMZY uses a bamboo-lyocell fabric that actively wicks moisture and stays cool.
 
 **Downsides:** Bamboo fabric requires a bit more care in washing. And the cooling effect means it might not feel as cozy in winter.
 
-### 5. Weighted Lap Pad — Best for Daytime Use
+### 5. Weighted Lap Pad: Best for Daytime Use
 
-**Price:** ~€20-35 | [Check price on Amazon.de](https://www.amazon.de/s?k=weighted+lap+pad+adults&tag=focushack-21)
+**Price:** ~€20-35 | [Check price on Amazon.de](https://www.amazon.de/dp/B0CL1734XP?tag=focushack-21)
 
 Not technically a blanket, but hear me out. A weighted lap pad (2-3 kg) sits on your thighs while you work. It provides deep pressure stimulation during the day without the full blanket commitment.
 
@@ -117,20 +117,20 @@ Most weighted blankets are machine washable on gentle cycle, but check the label
 
 Weighted blankets are amazing for:
 
-- **Homework/study sessions** — drape it over your lap
-- **Anxiety spirals** — wrap yourself up like a burrito
-- **Sensory overload** — go full cocoon mode
-- **Couch time** — watching TV with a weighted blanket hits different
+- **Homework/study sessions**: drape it over your lap
+- **Anxiety spirals**: wrap yourself up like a burrito
+- **Sensory overload**: go full cocoon mode
+- **Couch time**: watching TV with a weighted blanket hits different
 
 ## FAQ
 
 ### Do weighted blankets actually help ADHD?
 
-Yes. Research shows that deep pressure therapy (what weighted blankets provide) can reduce anxiety, improve sleep quality, and decrease restlessness — all common ADHD challenges. A study in the *Journal of Clinical Sleep Medicine* found significant sleep improvements for people with ADHD using weighted blankets.
+Yes. Research shows that deep pressure therapy (what weighted blankets provide) can reduce anxiety, improve sleep quality, and decrease restlessness. All common ADHD challenges. A study in the *Journal of Clinical Sleep Medicine* found significant sleep improvements for people with ADHD using weighted blankets.
 
 ### How heavy should a weighted blanket be for ADHD?
 
-Aim for approximately 10% of your body weight. For most adults, this means 6-9 kg. Start lighter if you're unsure — you can always upgrade to a heavier one later.
+Aim for approximately 10% of your body weight. For most adults, this means 6-9 kg. Start lighter if you're unsure. You can always upgrade to a heavier one later.
 
 ### Can you use a weighted blanket with ADHD medication?
 
@@ -138,7 +138,7 @@ Yes. There are no contraindications between weighted blankets and ADHD medicatio
 
 ### Are weighted blankets safe for adults?
 
-For healthy adults, yes. However, people with respiratory conditions, claustrophobia, or circulatory problems should consult a doctor first. The blanket should never feel restrictive — you should be able to easily push it off.
+For healthy adults, yes. However, people with respiratory conditions, claustrophobia, or circulatory problems should consult a doctor first. The blanket should never feel restrictive. You should be able to easily push it off.
 
 ### Can weighted blankets help with ADHD anxiety and racing thoughts?
 

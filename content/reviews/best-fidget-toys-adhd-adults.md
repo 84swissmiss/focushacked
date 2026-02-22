@@ -16,7 +16,7 @@ You know that thing where you're in a meeting and you've already destroyed three
 
 But not the loud clicky ones from 2017 that scream "I AM FIDGETING" to everyone in a 10-meter radius. You need something discreet. Something that lets your hands do their thing while your brain actually pays attention for once.
 
-I've tested an embarrassing number of fidget toys over the past year. Here are the ones that actually work for adult ADHD brains — and won't make your colleagues stage an intervention.
+I've tested an embarrassing number of fidget toys over the past year. Here are the ones that actually work for adult ADHD brains. And won't make your colleagues stage an intervention.
 
 ## Why Fidget Toys Actually Help ADHD
 
@@ -26,9 +26,9 @@ The key is finding something that occupies your hands *without* occupying your b
 
 ## The Best Fidget Toys for Adults with ADHD
 
-### 1. Möbii Fidget Ball — Best Overall
+### 1. Möbii Fidget Ball: Best Overall
 
-**Price:** ~€12 | [Check price on Amazon.de](https://www.amazon.de/s?k=Möbii+fidget+ball&tag=focushack-21)
+**Price:** ~€12 | [Check price on Amazon.de](https://www.amazon.de/dp/B0734HG19M?tag=focushack-21)
 
 This little chain-link ball is my desert-island fidget. It's completely silent, fits in one hand, and the interlocking rings give you endless ways to manipulate it. Roll it, squeeze it, twist individual links, flatten it out, ball it back up.
 
@@ -36,19 +36,19 @@ This little chain-link ball is my desert-island fidget. It's completely silent, 
 
 **Downsides:** It's so satisfying you might fight over it with your partner. That's it. That's the only downside.
 
-### 2. Thinking Putty (Crazy Aaron's) — Best for Deep Focus
+### 2. Thinking Putty (Crazy Aaron's): Best for Deep Focus
 
-**Price:** ~€10-15 | [Check price on Amazon.de](https://www.amazon.de/s?k=Crazy+Aarons+Thinking+Putty&tag=focushack-21)
+**Price:** ~€10-15 | [Check price on Amazon.de](https://www.amazon.de/dp/B0BGY4XK7X?tag=focushack-21)
 
-Thinking Putty is basically silly putty for grownups, and it's incredible for long focus sessions. The magnetic putty varieties are especially addictive — you get a small magnet that makes the putty "eat" things and stretch toward it.
+Thinking Putty is basically silly putty for grownups, and it's incredible for long focus sessions. The magnetic putty varieties are especially addictive. You get a small magnet that makes the putty "eat" things and stretch toward it.
 
 **Why it works for ADHD:** The sensory feedback is rich. Warm, stretchy, squeezable. It engages your tactile system without any sound. Perfect for phone calls and reading.
 
 **Downsides:** It can dry out if you leave it open. And if you get it on fabric, well, RIP that shirt.
 
-### 3. Infinity Cube — Best for Meetings
+### 3. Infinity Cube: Best for Meetings
 
-**Price:** ~€8-12 | [Check price on Amazon.de](https://www.amazon.de/s?k=infinity+cube+fidget+metal&tag=focushack-21)
+**Price:** ~€8-12 | [Check price on Amazon.de](https://www.amazon.de/dp/B0D8HNYPSQ?tag=focushack-21)
 
 Eight small cubes connected by hinges that fold and unfold infinitely. The metal ones feel premium and are virtually silent. The plastic ones... not so much. Spend the extra few euros.
 
@@ -56,39 +56,39 @@ Eight small cubes connected by hinges that fold and unfold infinitely. The metal
 
 **Downsides:** Cheap ones feel flimsy and can be clicky. Get a metal or aluminum version.
 
-### 4. Fidget Rings (Spinner Rings) — Best for Stealth
+### 4. Fidget Rings (Spinner Rings): Best for Stealth
 
-**Price:** ~€8-20 | [Check price on Amazon.de](https://www.amazon.de/s?k=fidget+spinner+ring+anxiety&tag=focushack-21)
+**Price:** ~€8-20 | [Check price on Amazon.de](https://www.amazon.de/dp/B0CJV5JC1W?tag=focushack-21)
 
 A ring with an outer band that spins freely around the inner band. You wear it. You spin it. Nobody knows.
 
-**Why it works for ADHD:** This is the ultimate stealth fidget. It looks like regular jewelry. You can spin it in client meetings, job interviews, first dates — anywhere a cube or putty would be weird. I wear one daily.
+**Why it works for ADHD:** This is the ultimate stealth fidget. It looks like regular jewelry. You can spin it in client meetings, job interviews, first dates. Anywhere a cube or putty would be weird. I wear one daily.
 
-**Downsides:** Some people find the spinning insufficient — it's less complex than other fidgets. If you need something with more texture or variety, this might not be enough.
+**Downsides:** Some people find the spinning insufficient. It's less complex than other fidgets. If you need something with more texture or variety, this might not be enough.
 
-### 5. Speks Magnetic Balls — Best for Desk Sessions
+### 5. Speks Magnetic Balls: Best for Desk Sessions
 
-**Price:** ~€25-30 | [Check price on Amazon.de](https://www.amazon.de/s?k=Speks+magnetic+balls&tag=focushack-21)
+**Price:** ~€25-30 | [Check price on Amazon.de](https://www.amazon.de/dp/B0DGYJJP7D?tag=focushack-21)
 
 Tiny, powerful magnetic balls that you can build shapes with, pull apart, and reconnect endlessly. They come in a set of 512 and live in a little magnetic case on your desk.
 
-**Why it works for ADHD:** The building aspect adds a creative element. You can make patterns, chains, cubes — and the magnets snapping together is deeply satisfying. It's a great "thinking toy" for brainstorming sessions.
+**Why it works for ADHD:** The building aspect adds a creative element. You can make patterns, chains, cubes. And the magnets snapping together is deeply satisfying. It's a great "thinking toy" for brainstorming sessions.
 
 **Downsides:** Not great for meetings (too visually engaging). And definitely keep them away from electronics and small children. Also on the pricier side.
 
-### 6. Tangle Jr. — Best Budget Option
+### 6. Tangle Jr.: Best Budget Option
 
-**Price:** ~€5-8 | [Check price on Amazon.de](https://www.amazon.de/s?k=Tangle+Jr+fidget&tag=focushack-21)
+**Price:** ~€5-8 | [Check price on Amazon.de](https://www.amazon.de/dp/B0034EKP8Q?tag=focushack-21)
 
 A series of curved, interconnected sections that twist and rotate. Simple, cheap, and surprisingly effective.
 
-**Why it works for ADHD:** Smooth, quiet, repetitive motion. It's also weirdly calming — almost meditative. And at this price, you can have one at your desk, one on the couch, one in your bag.
+**Why it works for ADHD:** Smooth, quiet, repetitive motion. It's also weirdly calming. Almost meditative. And at this price, you can have one at your desk, one on the couch, one in your bag.
 
 **Downsides:** Can feel a bit "toy-ish." The textured versions are better for adults who want more sensory feedback.
 
-### 7. Gear Cube (Fidget Cube 2.0) — Best for Complexity Cravings
+### 7. Gear Cube (Fidget Cube 2.0): Best for Complexity Cravings
 
-**Price:** ~€10-15 | [Check price on Amazon.de](https://www.amazon.de/s?k=gear+cube+puzzle+fidget&tag=focushack-21)
+**Price:** ~€10-15 | [Check price on Amazon.de](https://www.amazon.de/dp/B0D8292Q1X?tag=focushack-21)
 
 Remember the original fidget cube with the buttons and switches? A gear cube is the grown-up version. It's a puzzle that moves in satisfying, mechanical ways. Each face has interlocking gears that rotate together.
 
@@ -128,7 +128,7 @@ Fidget toys work best as part of a larger focus toolkit. Combine them with:
 
 ### Do fidget toys actually help adults with ADHD focus?
 
-Yes. Research supports that repetitive tactile stimulation can improve attention and cognitive performance in ADHD. The mechanism is similar to why doodling helps some people listen better — it provides just enough background stimulation to keep the understimulated ADHD brain from seeking it elsewhere.
+Yes. Research supports that repetitive tactile stimulation can improve attention and cognitive performance in ADHD. The mechanism is similar to why doodling helps some people listen better. It provides just enough background stimulation to keep the understimulated ADHD brain from seeking it elsewhere.
 
 ### What's the most discreet fidget toy for work?
 
