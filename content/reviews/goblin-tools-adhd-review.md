@@ -16,7 +16,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-I stared at "clean the house" on my to-do list for three hours last Tuesday. Then I found [Goblin Tools](https://goblin.tools) [AFFILIATE LINK] and it broke that task into 12 steps before I could talk myself out of starting.
+I stared at "clean the house" on my to-do list for three hours last Tuesday. Then I found [Goblin Tools](https://goblin.tools) and it broke that task into 12 steps before I could talk myself out of starting.
 
 That's basically the whole pitch. A collection of tiny, free, AI-powered tools built specifically for neurodivergent brains. No account required. No subscription wall. Just open the site and use it.
 
@@ -24,7 +24,7 @@ But does it actually help with ADHD? I spent two weeks testing every single tool
 
 ## What Is Goblin Tools?
 
-[Goblin Tools](https://goblin.tools) [AFFILIATE LINK] is a free web app created by Bram De Buyser, a software and AI engineer. It's a collection of small, single-purpose tools designed to help with executive functioning challenges. Think of it as a Swiss Army knife for the ADHD brain.
+[Goblin Tools](https://goblin.tools) is a free web app created by Bram De Buyser, a software and AI engineer. It's a collection of small, single-purpose tools designed to help with executive functioning challenges. Think of it as a Swiss Army knife for the ADHD brain.
 
 The website is completely free. No ads. No paywalls. There are paid mobile apps on [iOS](https://apps.apple.com/app/goblin-tools/id6449003064) and [Android](https://play.google.com/store/apps/details?id=com.goblintools) (a few bucks), and those purchases help keep the web version free for everyone. You can also support the project through [Ko-Fi](https://ko-fi.com/goblintools) or [Patreon](https://www.patreon.com/GoblinTools).
 
@@ -54,7 +54,7 @@ I used it for everything that week. "Plan birthday party for my 7-year-old." "Or
 
 **The spiciness slider** is a nice touch. You can adjust how detailed the breakdown gets. Low spiciness gives you broad steps. Crank it up and you get micro-steps that even the worst task paralysis day can handle.
 
-**Verdict: This alone makes [Goblin Tools](https://goblin.tools) [AFFILIATE LINK] worth bookmarking. 9/10.**
+**Verdict: This alone makes [Goblin Tools](https://goblin.tools) worth bookmarking. 9/10.**
 
 ### Formalizer
 
@@ -118,7 +118,7 @@ Okay, this one is less ADHD-specific and more just... useful. Decision fatigue a
 
 I told it I had chicken thighs, rice, broccoli, soy sauce, and garlic. It gave me a solid stir-fry recipe with steps. Not gourmet. But dinner, on the table, without 30 minutes of scrolling food blogs.
 
-**Verdict: Nice to have. Not the reason you'll use [Goblin Tools](https://goblin.tools) [AFFILIATE LINK], but handy. 6/10.**
+**Verdict: Nice to have. Not the reason you'll use [Goblin Tools](https://goblin.tools), but handy. 6/10.**
 
 ## What Works and What Doesn't
 
@@ -161,7 +161,7 @@ That's it. No tiers. No premium features locked behind a paywall. In a world whe
 - You want something that integrates with other apps
 - You need recurring tasks, reminders, or scheduling
 
-Think of [Goblin Tools](https://goblin.tools) [AFFILIATE LINK] as a utility belt, not a command center. It's the thing you pull up when you're stuck, not the thing that runs your whole system.
+Think of [Goblin Tools](https://goblin.tools) as a utility belt, not a command center. It's the thing you pull up when you're stuck, not the thing that runs your whole system.
 
 ## Final Verdict
 
@@ -173,7 +173,7 @@ It won't replace your task manager or your therapist or your medication. But it 
 
 **Overall rating: 8/10**
 
-[Try Goblin Tools here](https://goblin.tools) [AFFILIATE LINK]
+[Try Goblin Tools here](https://goblin.tools)
 
 ## FAQ
 

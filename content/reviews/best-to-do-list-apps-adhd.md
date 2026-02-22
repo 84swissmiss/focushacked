@@ -21,16 +21,16 @@ These six made the cut.
 
 | App | Best For | Price | Platforms | ADHD Killer Feature |
 |-----|----------|-------|-----------|-------------------|
-| [Todoist](https://todoist.com) [AFFILIATE LINK] | All-rounders who need structure | Free / $5/mo Pro | All | Natural language input |
-| [Things 3](https://culturedcode.com/things/) [AFFILIATE LINK] | Apple users who crave calm | $49.99 one-time (Mac) | Apple only | Beautiful, zero-clutter design |
-| [TickTick](https://ticktick.com) [AFFILIATE LINK] | People who need timers + tasks | Free / $35.99/yr | All | Built-in Pomodoro timer |
-| [Lunatask](https://lunatask.app) [AFFILIATE LINK] | ADHD + anxiety combo | Free / $6/mo | Desktop + web | Mood and energy tracking |
-| [Goblin Tools Magic To-Do](https://goblin.tools) [AFFILIATE LINK] | Task paralysis sufferers | Free | Web | AI task breakdown |
-| [Microsoft To Do](https://todo.microsoft.com) [AFFILIATE LINK] | Budget-conscious + Microsoft users | Free | All | My Day daily planning |
+| [Todoist](https://todoist.com) | All-rounders who need structure | Free / $5/mo Pro | All | Natural language input |
+| [Things 3](https://culturedcode.com/things/) | Apple users who crave calm | $49.99 one-time (Mac) | Apple only | Beautiful, zero-clutter design |
+| [TickTick](https://ticktick.com) | People who need timers + tasks | Free / $35.99/yr | All | Built-in Pomodoro timer |
+| [Lunatask](https://lunatask.app) | ADHD + anxiety combo | Free / $6/mo | Desktop + web | Mood and energy tracking |
+| [Goblin Tools Magic To-Do](https://goblin.tools) | Task paralysis sufferers | Free | Web | AI task breakdown |
+| [Microsoft To Do](https://todo.microsoft.com) | Budget-conscious + Microsoft users | Free | All | My Day daily planning |
 
 ## 1. Todoist
 
-[Todoist](https://todoist.com) [AFFILIATE LINK] is the Honda Civic of to-do apps. It's not flashy. It's reliable. It starts every single time.
+[Todoist](https://todoist.com) is the Honda Civic of to-do apps. It's not flashy. It's reliable. It starts every single time.
 
 The reason it works for ADHD is the natural language input. Type "call dentist tomorrow at 2pm" and it just creates the task with the right date and time. No clicking through menus. No date pickers. You dump the thought and move on before your brain has time to get distracted by something else.
 
@@ -52,7 +52,7 @@ The project and label system is flexible enough to build whatever organization s
 
 ## 2. Things 3
 
-[Things 3](https://culturedcode.com/things/) [AFFILIATE LINK] is the app I open when every other app feels like too much. And that happens a lot.
+[Things 3](https://culturedcode.com/things/) is the app I open when every other app feels like too much. And that happens a lot.
 
 It's Apple only, which is a dealbreaker for some. But if you're in the Apple ecosystem, nothing else feels this calm. The design is minimal without being empty. There's a "Today" view, an "Upcoming" view, and an "Anytime" bucket. That's basically it.
 
@@ -74,7 +74,7 @@ For ADHD brains drowning in decision fatigue, that simplicity is the whole point
 
 ## 3. TickTick
 
-[TickTick](https://ticktick.com) [AFFILIATE LINK] is the Swiss Army knife on this list. It does tasks, habits, Pomodoro timers, calendar views, and a bunch of other stuff. Normally that much feature bloat would make me nervous. But TickTick pulls it off without feeling overwhelming.
+[TickTick](https://ticktick.com) is the Swiss Army knife on this list. It does tasks, habits, Pomodoro timers, calendar views, and a bunch of other stuff. Normally that much feature bloat would make me nervous. But TickTick pulls it off without feeling overwhelming.
 
 The built-in Pomodoro timer is the reason it's here. If you're ADHD and you haven't tried Pomodoro yet, it's the "work for 25 minutes, break for 5" technique. It's one of the few things that actually helps with time blindness because the timer externalizes the concept of time for you. Having it right there in your task app, instead of needing a separate timer, removes one more friction point.
 
@@ -94,7 +94,7 @@ The built-in Pomodoro timer is the reason it's here. If you're ADHD and you have
 
 ## 4. Lunatask
 
-[Lunatask](https://lunatask.app) [AFFILIATE LINK] is the only app on this list that seems to understand that productivity isn't just about tasks. It's about your brain. Your energy. Your mood. The fact that some days you can conquer the world and other days opening your laptop feels like climbing Everest.
+[Lunatask](https://lunatask.app) is the only app on this list that seems to understand that productivity isn't just about tasks. It's about your brain. Your energy. Your mood. The fact that some days you can conquer the world and other days opening your laptop feels like climbing Everest.
 
 It lets you log your mood and energy levels alongside your tasks. Then it actually uses that data to help you plan. Low energy day? It'll suggest lighter tasks. That's not a gimmick. For ADHD brains that fluctuate wildly between "I can do anything" and "I can do nothing," this is incredibly useful.
 
@@ -116,7 +116,7 @@ It also has built-in privacy features. Everything is encrypted. No account requi
 
 ## 5. Goblin Tools Magic To-Do
 
-[Goblin Tools Magic To-Do](https://goblin.tools) [AFFILIATE LINK] is not really a to-do list app. It's a task breakdown tool. And it might be the most ADHD-specific thing on this list.
+[Goblin Tools Magic To-Do](https://goblin.tools) is not really a to-do list app. It's a task breakdown tool. And it might be the most ADHD-specific thing on this list.
 
 You know that feeling when your to-do list says "clean the house" and your brain just... shuts down? Task paralysis. The task is too big, too vague, and your brain refuses to figure out where to start. Goblin Tools fixes that. You type "clean the house" and it uses AI to break it into smaller steps. Pick up clothes from the floor. Load the dishwasher. Wipe kitchen counters. Suddenly it's doable.
 
@@ -138,7 +138,7 @@ You can adjust the "spiciness" slider to control how granular the breakdown gets
 
 ## 6. Microsoft To Do
 
-[Microsoft To Do](https://todo.microsoft.com) [AFFILIATE LINK] is the sleeper pick. Nobody's excited about it. Nobody's making YouTube videos about their Microsoft To Do setup. And that's exactly why it works.
+[Microsoft To Do](https://todo.microsoft.com) is the sleeper pick. Nobody's excited about it. Nobody's making YouTube videos about their Microsoft To Do setup. And that's exactly why it works.
 
 The "My Day" feature is the star here. Every morning, you get a clean slate. You pick what you're doing today from your existing lists. That's it. You're not looking at every task you've ever created. You're looking at today. For ADHD brains that get paralyzed by looking at 200 tasks across 15 lists, this daily reset is a lifesaver.
 
@@ -162,12 +162,12 @@ It also integrates with Outlook and the Microsoft ecosystem. If your work runs o
 
 I'm not going to tell you there's one best to do list app for ADHD. There isn't. But I'll give you the shortcut:
 
-- **Paralyzed by big tasks?** Start with [Goblin Tools](https://goblin.tools) [AFFILIATE LINK] to break them down, then put them in whatever app you want.
-- **Want something simple that just works?** [Microsoft To Do](https://todo.microsoft.com) [AFFILIATE LINK]. It's free and My Day is perfect for ADHD.
-- **Apple user who needs calm?** [Things 3](https://culturedcode.com/things/) [AFFILIATE LINK]. Nothing else feels this peaceful.
-- **Need timers built in?** [TickTick](https://ticktick.com) [AFFILIATE LINK]. That Pomodoro integration is legit.
-- **Want the most flexible option?** [Todoist](https://todoist.com) [AFFILIATE LINK]. It grows with you.
-- **Mood affects your productivity?** [Lunatask](https://lunatask.app) [AFFILIATE LINK]. It actually accounts for that.
+- **Paralyzed by big tasks?** Start with [Goblin Tools](https://goblin.tools) to break them down, then put them in whatever app you want.
+- **Want something simple that just works?** [Microsoft To Do](https://todo.microsoft.com). It's free and My Day is perfect for ADHD.
+- **Apple user who needs calm?** [Things 3](https://culturedcode.com/things/). Nothing else feels this peaceful.
+- **Need timers built in?** [TickTick](https://ticktick.com). That Pomodoro integration is legit.
+- **Want the most flexible option?** [Todoist](https://todoist.com). It grows with you.
+- **Mood affects your productivity?** [Lunatask](https://lunatask.app). It actually accounts for that.
 
 The real secret? The best app is the one you'll actually open tomorrow. Don't overthink it. Pick one. Try it for two weeks. If it sticks, great. If not, try the next one. That's not failure. That's just how ADHD brains find what works.
 

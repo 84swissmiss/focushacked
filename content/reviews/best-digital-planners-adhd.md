@@ -29,16 +29,16 @@ I tested six of the most popular **ADHD digital planners** for iPad and Android.
 
 | Planner | Best For | Platform | Price | ADHD Rating |
 |---|---|---|---|---|
-| [GoodNotes + ADHD Templates](AFFILIATE LINK) | Handwriting lovers, customizers | iPad, Mac, Windows | $9.99/yr or one-time $29.99 + templates $5-30 | ⭐⭐⭐⭐ |
-| [Passion Planner Digital](AFFILIATE LINK) | Goal-oriented planners | iPad, Android (PDF) | $15-25/yr | ⭐⭐⭐ |
-| [Panda Planner Digital](AFFILIATE LINK) | Gratitude + reflection types | iPad, Android (PDF) | $12-20 one-time | ⭐⭐⭐⭐ |
-| [Structured](AFFILIATE LINK) | Visual time blocking | iOS, Android, Mac, Web | Free / $29.99/yr Pro | ⭐⭐⭐⭐⭐ |
-| [Tiimo](AFFILIATE LINK) | Visual schedules, routine building | iOS, Android | Free / $35/yr | ⭐⭐⭐⭐⭐ |
-| [Notion ADHD Templates](AFFILIATE LINK) | System builders, hyperfocus fuel | iOS, Android, Web | Free / $10/mo Plus + templates $0-30 | ⭐⭐⭐ |
+| [GoodNotes + ADHD Templates]# | Handwriting lovers, customizers | iPad, Mac, Windows | $9.99/yr or one-time $29.99 + templates $5-30 | ⭐⭐⭐⭐ |
+| [Passion Planner Digital]# | Goal-oriented planners | iPad, Android (PDF) | $15-25/yr | ⭐⭐⭐ |
+| [Panda Planner Digital]# | Gratitude + reflection types | iPad, Android (PDF) | $12-20 one-time | ⭐⭐⭐⭐ |
+| [Structured]# | Visual time blocking | iOS, Android, Mac, Web | Free / $29.99/yr Pro | ⭐⭐⭐⭐⭐ |
+| [Tiimo]# | Visual schedules, routine building | iOS, Android | Free / $35/yr | ⭐⭐⭐⭐⭐ |
+| [Notion ADHD Templates]# | System builders, hyperfocus fuel | iOS, Android, Web | Free / $10/mo Plus + templates $0-30 | ⭐⭐⭐ |
 
 ## GoodNotes + ADHD Templates
 
-If you love handwriting and want something that feels like a physical planner without the bulk, [GoodNotes](AFFILIATE LINK) with a dedicated ADHD template is hard to beat.
+If you love handwriting and want something that feels like a physical planner without the bulk, [GoodNotes]# with a dedicated ADHD template is hard to beat.
 
 The app itself is just a digital notebook. The magic is in the templates. Sellers on Etsy and their own marketplace offer ADHD-specific planners with hyperlinked tabs, brain dump pages, habit trackers, and daily layouts designed for brains that can't do linear scheduling.
 
@@ -58,7 +58,7 @@ The app itself is just a digital notebook. The magic is in the templates. Seller
 
 ## Passion Planner Digital
 
-[Passion Planner](AFFILIATE LINK) has been around forever in paper form. The digital version is a hyperlinked PDF you use inside GoodNotes, Notability, or any PDF annotation app.
+[Passion Planner]# has been around forever in paper form. The digital version is a hyperlinked PDF you use inside GoodNotes, Notability, or any PDF annotation app.
 
 Their whole thing is connecting daily tasks to bigger goals. There's a "Passion Roadmap" section where you map out what you actually want from life, then break it into monthly and weekly chunks.
 
@@ -78,7 +78,7 @@ Their whole thing is connecting daily tasks to bigger goals. There's a "Passion 
 
 ## Panda Planner Digital
 
-[Panda Planner](AFFILIATE LINK) was actually designed with positive psychology research in mind. Each day starts with gratitude, then priorities (just three), then a schedule. Each day ends with reflection.
+[Panda Planner]# was actually designed with positive psychology research in mind. Each day starts with gratitude, then priorities (just three), then a schedule. Each day ends with reflection.
 
 This structure is sneaky good for ADHD.
 
@@ -98,7 +98,7 @@ This structure is sneaky good for ADHD.
 
 ## Structured (App)
 
-OK, this one changed everything for me. [Structured](AFFILIATE LINK) is a visual daily planner app that turns your to-do list into a timeline. You see your day as colored blocks of time. It looks like a calendar but acts like a to-do list.
+OK, this one changed everything for me. [Structured]# is a visual daily planner app that turns your to-do list into a timeline. You see your day as colored blocks of time. It looks like a calendar but acts like a to-do list.
 
 For time blindness? This thing is medicine.
 
@@ -121,7 +121,7 @@ For time blindness? This thing is medicine.
 
 ## Tiimo
 
-[Tiimo](AFFILIATE LINK) was literally built for neurodivergent brains. Founded by people with ADHD and autism. It shows.
+[Tiimo]# was literally built for neurodivergent brains. Founded by people with ADHD and autism. It shows.
 
 It's a visual daily planner with cute illustrations, gentle reminders, and a focus on routines. Think of it as the warm, friendly version of Structured.
 
@@ -144,9 +144,9 @@ It's a visual daily planner with cute illustrations, gentle reminders, and a foc
 
 ## Notion ADHD Templates
 
-[Notion](AFFILIATE LINK) is a blank canvas. That's both its superpower and its biggest risk for ADHD brains.
+[Notion]# is a blank canvas. That's both its superpower and its biggest risk for ADHD brains.
 
-The good news is you don't have to build anything from scratch. There are hundreds of [ADHD-specific Notion templates](AFFILIATE LINK) that give you dashboards for tasks, habits, brain dumps, project tracking, and life management. Some are incredible. Some are overengineered nightmares.
+The good news is you don't have to build anything from scratch. There are hundreds of [ADHD-specific Notion templates]# that give you dashboards for tasks, habits, brain dumps, project tracking, and life management. Some are incredible. Some are overengineered nightmares.
 
 **ADHD Pros:**
 - When you find the right template, Notion can be your entire second brain. Tasks, notes, projects, bookmarks, everything in one place.
@@ -167,15 +167,15 @@ The good news is you don't have to build anything from scratch. There are hundre
 
 Here's my honest take after using all of these:
 
-**If you're new to digital planning:** Start with [Structured](AFFILIATE LINK). It's free, it takes five minutes to set up, and it directly tackles time blindness. No learning curve. No setup paralysis.
+**If you're new to digital planning:** Start with [Structured]#. It's free, it takes five minutes to set up, and it directly tackles time blindness. No learning curve. No setup paralysis.
 
-**If you need routine help:** [Tiimo](AFFILIATE LINK). Built for your brain. Gentle. Effective.
+**If you need routine help:** [Tiimo]#. Built for your brain. Gentle. Effective.
 
-**If you love handwriting:** [GoodNotes](AFFILIATE LINK) with an ADHD template from Etsy. Nothing else replicates that pen-on-paper feeling.
+**If you love handwriting:** [GoodNotes]# with an ADHD template from Etsy. Nothing else replicates that pen-on-paper feeling.
 
-**If you want an all-in-one system (and you're honest about maintaining it):** [Notion](AFFILIATE LINK) with a solid ADHD template.
+**If you want an all-in-one system (and you're honest about maintaining it):** [Notion]# with a solid ADHD template.
 
-**If you want structured reflection:** [Panda Planner](AFFILIATE LINK). Three priorities. Gratitude. Done.
+**If you want structured reflection:** [Panda Planner]#. Three priorities. Gratitude. Done.
 
 The best ADHD digital planner is the one you'll actually open. Seriously. A $5 template you use every day beats a $30 system collecting digital dust. Start simple. You can always add complexity later.
 
@@ -195,7 +195,7 @@ Structured and Tiimo both have full Android apps. Notion works everywhere. Panda
 
 ### What's the best free ADHD digital planner?
 
-[Structured](AFFILIATE LINK) has the best free tier. You get the visual timeline, recurring tasks, and calendar import without paying anything. [Tiimo](AFFILIATE LINK) also has a free version, though it's more limited. And Passion Planner releases a free classic PDF every year.
+[Structured]# has the best free tier. You get the visual timeline, recurring tasks, and calendar import without paying anything. [Tiimo]# also has a free version, though it's more limited. And Passion Planner releases a free classic PDF every year.
 
 ### How do I stop abandoning digital planners after a week?
 

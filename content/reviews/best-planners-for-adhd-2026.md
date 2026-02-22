@@ -8,6 +8,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+*This article contains affiliate links. We may earn a small commission at no extra cost to you.*
+
 Most planners are designed for people who already have their life together. The ones who wake up at 5 AM, journal for 20 minutes, and actually *use* their color-coded system past January 14th.
 
 That's not me. And if you're here searching for the **best planner for ADHD**, it's probably not you either.
@@ -65,6 +67,8 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Not much room for free-form notes
 - Dated versions mean you feel guilty about skipped weeks
 
+[👉 Buy Passion Planner on Amazon](https://www.amazon.de/s?k=Passion+Planner&tag=focushack-21)
+
 ---
 
 ### 2. Panda Planner
@@ -87,6 +91,8 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - One page per day fills up the notebook fast
 - Not great for long-term project planning
 - The daily format might be too repetitive for novelty-seekers
+
+[👉 Buy Panda Planner on Amazon](https://www.amazon.de/s?k=Panda+Planner&tag=focushack-21)
 
 ---
 
@@ -112,6 +118,8 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Can feel overwhelming with too many options
 - Requires ongoing effort to maintain
 
+[👉 Buy Happy Planner on Amazon](https://www.amazon.de/s?k=Happy+Planner+ADHD&tag=focushack-21)
+
 ---
 
 ### 4. Clever Fox
@@ -134,6 +142,8 @@ That last one is the real filter. The best planner for ADHD isn't the most beaut
 - Small writing space in weekly view
 - Not as visually exciting as some competitors
 - Limited room for brain dumps
+
+[👉 Buy Clever Fox Planner on Amazon](https://www.amazon.de/s?k=Clever+Fox+Planner&tag=focushack-21)
 
 ---
 
